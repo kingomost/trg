@@ -1,0 +1,131 @@
+/**************************
+OPTIONAL PACKAGES
+**************************/
+.optionalPackagesHeader, .optionalPackagesSelectHeader {
+	width: 100%;
+}
+
+/*
+#divContentCaption{
+	font-weight:bold;
+	padding-bottom:5px;
+}
+#divContentText{}
+*/
+#ucPremium_dtlPremiumItems .calculatorPremiumTitle {
+	color: #000;
+}
+
+#divContentContainer{
+/*
+	padding:10px;
+	font-family:Arial;
+	border:solid 1px #a0a0a0;
+*/
+}
+/************************
+OPTIONAL PACKAGES
+************************/
+.divOptionalPackageContainer {
+	border: 0px;
+}
+.divOptionalPackageContainer input {}
+.optionalPackageChecked {
+	width: 100%;
+	margin-top: 8px;
+}
+.optionalPackageChecked td{
+	background: #f5f5f5;
+}
+.optionalPackageChecked td, .optionalPackageUnChecked td {
+	color: #9c9b9b;
+}
+.optionalPackageChecked .TDprice{
+	color: #000;
+}
+.optionalPackageChecked a{
+	color: #000;	
+}
+.optionalPackageUnChecked {
+	width: 100%;
+	margin-top: 8px;
+}
+.optionalPackageUnChecked td{
+	background: #fff;
+}
+.divOptionalPackageContainer select {margin-left: 25px;}
+.TDcheckbox {
+	width: 21px;
+	border: 1px solid #eeeeee;
+	padding-left: 6px;
+	padding-right: 0px;
+}
+.TDcheckbox input{
+	margin-left: 0px;
+}
+.TDproduct {
+	font-weight: bold;
+	padding: 4px 0px 4px 8px;
+	border-top: 1px solid #eeeeee;
+	border-bottom: 1px solid #eeeeee;
+}
+* + html .TDproduct {width: 100%;} /*IE7 cant do math, FF cant see this */
+.TDprice{
+	text-align: right;
+	width:70px;
+	border: 1px solid #eeeeee;
+	font-size: 10px;
+	font-weight: bold;
+	padding-left: 4px;
+	padding-right: 8px;
+}
+.optionalPremium {
+	white-space: nowrap;
+
+}
+td.TDblank {
+	border-right: 1px solid #eeeeee;
+	background: transparent;
+}
+.TDoptions {
+	border-right: 1px solid #eeeeee;
+	border-bottom: 1px solid #eeeeee;
+font-size:.75em;
+	padding: 4px 8px 4px 8px;
+}
+.TDoptions a{
+	color: #9c9b9b;
+}
+.TDoptions td{}
+.TDoptions input, .TDoptions select, .TDoptions option {height: auto; margin-bottom: 3px;}
+.TDselectamount {padding-left: 30px;}
+.cdwBox {width: 20px;}
+.optionalPackageOptions {
+	margin-top: 3px;
+	float: left;
+}
+.optionalPackageOptions2 {margin-top: 15px;}
+html>body .optionalPackageOptions2 {margin-top: 9px;}
+.packageWarning {
+	color:#ff4500;
+	font-style:italic;
+	font-weight:bold;
+}
+.CDWradio{float:left;margin-right:15px;}
+.radio label, .radio input{vertical-align: top;}/*IE fix for radio button alignments */
+.cdwRow1 {
+	white-space: nowrap;
+	padding: 0 15px 5px 0;
+	vertical-align: top;
+}
+.divOptionalPackageContainer {
+	display: table;
+	width: 100%;
+}
+.cdwRow2 {
+	width: 100%;
+	padding: 0 5px 5px 0;
+	height: 20px;
+	vertical-align: top;
+}
+#tblTripCarrierContainer select{margin-left: 0;}

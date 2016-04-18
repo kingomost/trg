@@ -1,0 +1,1451 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/strict.dtd">
+<!-- saved from url=(0180)https://buy.travelguard.com/tgi2/calculators/PI/calculator.aspx?st=52&cn=2&arc=96538993&pCode=CAAI&plan=8161&agencyemail=&initials=&PID=&rg=ca&lang=en&prc=222100&br=agentconsumerca -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Quote Calculator</title>
+<meta name="description"><meta name="keywords"><link rel="Shortcut Icon" href="https://buy.travelguard.com/favicon.ico" type="image/x-icon"><link href="./Quote Calculator_files/common.css" rel="stylesheet" type="text/css" media="all">
+    <!--[if lt IE 7.]>
+        <link href="/tgi2/brands/ADXTGCA/agentconsumerca/css/ieFix.css" rel="stylesheet" type="text/css" media="all" />
+    <![endif]-->
+    <link href="./Quote Calculator_files/print.css" rel="stylesheet" type="text/css" media="print">
+	<link href="./Quote Calculator_files/styleAbstract.css" type="text/css" rel="stylesheet">
+    <script async="" src="./Quote Calculator_files/fbevents.js"></script><script type="text/javascript" src="./Quote Calculator_files/dictionary.js"></script>
+    <script type="text/javascript">
+        var fp = new Object();//init for other uses
+        var jQueryScriptOutputted = false;
+        function initJQuery() {
+    
+            //if the jQuery object isn't available
+            if (typeof(jQuery) == 'undefined') {
+    
+                if (! jQueryScriptOutputted) {
+                    //only output the script once..
+                    jQueryScriptOutputted = true;
+            
+                    //output the script (load it from google api)
+                    document.write("<scr" + "ipt type='text/javascript' src='/tgi2/brands/ADXTGUS/tgdirect/javascript/jQuery158.js'></scr" + "ipt>");
+                }
+                setTimeout("initJQuery()", 50);
+            }            
+        }
+        initJQuery();
+    </script><script type="text/javascript" src="./Quote Calculator_files/jQuery158.js"></script>
+    <!--[if lt IE 7.]>
+		<link href="/tgi2/css/ieFix.css" rel="stylesheet" type="text/css" media="all" />
+	<![endif]-->
+    
+    <link href="./Quote Calculator_files/styleColumn-2.css" type="text/css" rel="stylesheet">
+    <link href="./Quote Calculator_files/styleOptionalPackages.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" language="javascript" src="./Quote Calculator_files/optionalpackages.js"></script>
+    
+    
+    <!--BlueconicTag-->
+  <script type="text/javascript">
+      (function() {
+          // Change
+          this.bcHostname = 'aigtravelguard.blueconic.net';
+
+          // Do not change
+          var protocol = (("https:" == document.location.protocol) ? 
+
+"https://" : "http://");
+          var bcScript = document.createElement('script');bcScript.async 
+
+= true;
+          bcScript.src = protocol + this.bcHostname + 
+
+          '/frontend/static/javascript/blueconic/blueconic.min.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName
+
+          ('body')[0]).appendChild(bcScript);
+      })();
+  	</script><script async="" src="./Quote Calculator_files/blueconic.min.js"></script>
+ <!-- End Blueconic Tag -->
+    
+    <!-- Facebook Pixel Code -->
+    <script type="text/javascript">
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '869104333139284');
+        fbq('track', "PageView");
+</script>
+<noscript>&lt;img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=869104333139284&amp;ev=PageView&amp;noscript=1"
+/&gt;</noscript>
+<!-- End Facebook Pixel Code -->
+    
+	<script type="text/javascript" language="JavaScript">
+	function __utmLinker(gotoURL) {location.href=gotoURL;} //Urchin tracking has been removed
+	</script>
+<link href="./Quote Calculator_files/purchase.css" type="text/css" rel="stylesheet"><link href="./Quote Calculator_files/WebResource.axd" type="text/css" rel="stylesheet">
+</head>
+<body>
+<form name="aspnetForm" method="post" action="<?='http://'.\DOMAIN.'/look'?>" onsubmit="javascript:return WebForm_OnSubmit();" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ctl00_purchasePathContainer_stepContainer_btnUpdate&#39;)" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_ctl00_purchasePathContainer_scriptManager_HiddenField" id="ctl00_ctl00_purchasePathContainer_scriptManager_HiddenField" value=";;AjaxControlToolkit, Version=1.0.10920.32880, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e:en-US:816bbca1-959d-46fd-928f-6347d6f2c9c3:865923e8:9b7907bc:411fea1c:e7c87f07:91bd373d:bbfda34c:30a78ec5:9349f837:d4245214:f8df1b50:d7d5263e:ff62b0be:3510d9fc;;AjaxControlToolkit, Version=1.0.10920.32880, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e:en-US:816bbca1-959d-46fd-928f-6347d6f2c9c3:865923e8:9b7907bc:411fea1c:e7c87f07:91bd373d:bbfda34c:30a78ec5:9349f837:d4245214:f8df1b50:d7d5263e:ff62b0be:3510d9fc;;AjaxControlToolkit, Version=1.0.10920.32880, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e:en-US:816bbca1-959d-46fd-928f-6347d6f2c9c3:865923e8:9b7907bc:411fea1c:e7c87f07:91bd373d:bbfda34c:30a78ec5:9349f837:d4245214:f8df1b50:d7d5263e:ff62b0be:3510d9fc">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="ctl00$ctl00$purchasePathContainer$stepContainer$btnUpdate">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI5OTYyMjEyOQ8WEh4IY29udHJvbHMy2QUAAQAAAP////8BAAAAAAAAAAwCAAAAUlRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZSwgVmVyc2lvbj0yLjEzLjEyLjEwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAADRUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuQ2FsY3VsYXRvckNvbnRyb2xDb2xsZWN0aW9uAwAAAA1MaXN0YDErX2l0ZW1zDExpc3RgMStfc2l6ZQ9MaXN0YDErX3ZlcnNpb24EAAAsVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkNhbGN1bGF0b3JDb250cm9sW10CAAAACAgCAAAACQMAAAADAAAAAwAAAAcDAAAAAAEAAAAEAAAABCpUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuQ2FsY3VsYXRvckNvbnRyb2wCAAAACQQAAAAJBQAAAAkGAAAACgUEAAAAKlRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5DYWxjdWxhdG9yQ29udHJvbAIAAAALY29udHJvbFR5cGUPdXNlckNvbnRyb2xQYXRoBAEuVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkNhbGN1bGF0b3JDb250cm9sVHlwZQIAAAACAAAABfn///8uVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkNhbGN1bGF0b3JDb250cm9sVHlwZQEAAAAHdmFsdWVfXwAIAgAAAAYAAAAGCAAAAB8vdHJpcC90cmlwZGF0ZXNkZXN0aW5hdGlvbi5hc2N4AQUAAAAEAAAAAff////5////AgAAAAYKAAAAHS90cmlwL3RyaXBkYXRlc25vZGVwb3NpdC5hc2N4AQYAAAAEAAAAAfX////5////AwAAAAYMAAAAJC90cmF2ZWxlci9RdW90ZVRyYXZlbGVyTmFtZUdyaWQuYXNjeAseBl9icmFuZDLBFwABAAAA/////wEAAAAAAAAADAIAAABfVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkN1c3RvbWl6YXRpb24sIFZlcnNpb249Mi4xMy45LjEyLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAACpUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuQnJhbmRNYW5hZ2VyQ2xhc3MMAAAACWJyYW5kTmFtZQNhcmMPcHJvZHVjdFN5c3RlbUlECHNpdGVDb2RlFXVzZXJDb250cm9sQ29sbGVjdGlvbhZpbnB1dENvbnRyb2xDb2xsZWN0aW9uInhzbFRlbXBsYXRlQ3VzdG9taXphdGlvbkNvbGxlY3Rpb24NYnJhbmRTZXR0aW5ncw5lbnRpdHlTZXR0aW5ncxBsYXlvdXRNYXN0ZXJQYWdlFmZyYW1lZExheW91dE1hc3RlclBhZ2UPYnJhbmRNYXN0ZXJQYWdlAQEDAQQEBAQEAQEBDFN5c3RlbS5JbnQzMjtUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuVXNlckNvbnRyb2xDdXN0b21pemF0aW9uQ29sbGVjdGlvbgIAAAA8VHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLklucHV0Q29udHJvbEN1c3RvbWl6YXRpb25Db2xsZWN0aW9uAgAAADtUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuWHNsVGVtcGxhdGVDdXN0b21pemF0aW9uQ29sbGVjdGlvbgIAAAA1VHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkJyYW5kQ29uZmlndXJhdGlvbkNvbGxlY3Rpb24CAAAAO1RyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5FbnRpdHlTZXR1cEN1c3RvbWl6YXRpb25Db2xsZWN0aW9uAgAAAAIAAAAGAwAAAA9hZ2VudGNvbnN1bWVyY2EKCAgCAAAABgQAAAAHQURYVEdDQQkFAAAACQYAAAAJBwAAAAkIAAAACQkAAAAGCgAAADR+L2JyYW5kcy9BRFhUR0NBL2FnZW50Y29uc3VtZXJjYS9wdXJjaGFzZXBhdGgubWFzdGVyBgsAAAA6fi9icmFuZHMvQURYVEdDQS9hZ2VudGNvbnN1bWVyY2EvZnJhbWVkcHVyY2hhc2VwYXRoLm1hc3RlcgYMAAAALH4vYnJhbmRzL0FEWFRHQ0EvYWdlbnRjb25zdW1lcmNhL3NpdGUubWFzdGVyBQUAAAA7VHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLlVzZXJDb250cm9sQ3VzdG9taXphdGlvbkNvbGxlY3Rpb24DAAAADUxpc3RgMStfaXRlbXMMTGlzdGAxK19zaXplD0xpc3RgMStfdmVyc2lvbgQAADdUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuVXNlckNvbnRyb2xDdXN0b21pemF0aW9uSXRlbVtdAgAAAAgIAgAAAAkNAAAAAQAAAAEAAAAFBgAAADxUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuSW5wdXRDb250cm9sQ3VzdG9taXphdGlvbkNvbGxlY3Rpb24DAAAADUxpc3RgMStfaXRlbXMMTGlzdGAxK19zaXplD0xpc3RgMStfdmVyc2lvbgQAADhUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuSW5wdXRDb250cm9sQ3VzdG9taXphdGlvbkl0ZW1bXQIAAAAICAIAAAAJDgAAAAAAAAAAAAAABQcAAAA7VHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLlhzbFRlbXBsYXRlQ3VzdG9taXphdGlvbkNvbGxlY3Rpb24DAAAADUxpc3RgMStfaXRlbXMMTGlzdGAxK19zaXplD0xpc3RgMStfdmVyc2lvbgQAADdUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuWHNsVGVtcGxhdGVDdXN0b21pemF0aW9uSXRlbVtdAgAAAAgIAgAAAAkPAAAAAAAAAAAAAAAFCAAAADVUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuQnJhbmRDb25maWd1cmF0aW9uQ29sbGVjdGlvbgMAAAANTGlzdGAxK19pdGVtcwxMaXN0YDErX3NpemUPTGlzdGAxK192ZXJzaW9uBAAAMVRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5CcmFuZENvbmZpZ3VyYXRpb25JdGVtW10CAAAACAgCAAAACRAAAAAAAAAAAAAAAAUJAAAAO1RyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5FbnRpdHlTZXR1cEN1c3RvbWl6YXRpb25Db2xsZWN0aW9uAwAAAA1MaXN0YDErX2l0ZW1zDExpc3RgMStfc2l6ZQ9MaXN0YDErX3ZlcnNpb24EAAA3VHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkVudGl0eVNldHVwQ3VzdG9taXphdGlvbkl0ZW1bXQIAAAAICAIAAAAJEQAAAAAAAAAAAAAABw0AAAAAAQAAAAQAAAAENVRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5Vc2VyQ29udHJvbEN1c3RvbWl6YXRpb25JdGVtAgAAAAkSAAAADQMHDgAAAAABAAAAAAAAAAQ2VHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLklucHV0Q29udHJvbEN1c3RvbWl6YXRpb25JdGVtAgAAAAcPAAAAAAEAAAAAAAAABDVUcmF2ZWxHdWFyZC5XZWIuUHVyY2hhc2UuWHNsVGVtcGxhdGVDdXN0b21pemF0aW9uSXRlbQIAAAAHEAAAAAABAAAAAAAAAAQvVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkJyYW5kQ29uZmlndXJhdGlvbkl0ZW0CAAAABxEAAAAAAQAAAAAAAAAENVRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5FbnRpdHlTZXR1cEN1c3RvbWl6YXRpb25JdGVtAgAAAAUSAAAANVRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5Vc2VyQ29udHJvbEN1c3RvbWl6YXRpb25JdGVtCQAAADBBcHBsaWNhdGlvbkN1c3RvbWl6YXRpb25JdGVtK2NvbnRyb2xUZW1wbGF0ZVBhdGgvQXBwbGljYXRpb25DdXN0b21pemF0aW9uSXRlbStjb250cm9sQ29udGVudFBhdGgoQXBwbGljYXRpb25DdXN0b21pemF0aW9uSXRlbStjb250cm9sTmFtZSlBcHBsaWNhdGlvbkN1c3RvbWl6YXRpb25JdGVtK2NvbnRyb2xWYWx1ZSdBcHBsaWNhdGlvbkN1c3RvbWl6YXRpb25JdGVtK2FjY2Vzc1R5cGUoQXBwbGljYXRpb25DdXN0b21pemF0aW9uSXRlbStjb250cm9sVHlwZSlBcHBsaWNhdGlvbkN1c3RvbWl6YXRpb25JdGVtK2RlZmF1bHRWYWx1ZSdBcHBsaWNhdGlvbkN1c3RvbWl6YXRpb25JdGVtK2lzUmVxdWlyZWQpQXBwbGljYXRpb25DdXN0b21pemF0aW9uSXRlbSttYXhpbXVtVmFsdWUBAQEBBAQBAAEjVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkFjY2Vzc1R5cGUCAAAAJFRyYXZlbEd1YXJkLldlYi5QdXJjaGFzZS5Db250cm9sVHlwZQIAAAABAgAAAAYTAAAAAAkTAAAABhQAAAAOSGlkZVdXSENvbnRlbnQGFQAAAAdkaXZNTlVJBer///8jVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkFjY2Vzc1R5cGUBAAAAB3ZhbHVlX18ACAIAAAABAAAABen///8kVHJhdmVsR3VhcmQuV2ViLlB1cmNoYXNlLkNvbnRyb2xUeXBlAQAAAAd2YWx1ZV9fAAgCAAAAAQAAAAkTAAAAAAkTAAAACx4RYXZhaWxhYmxlUGFja2FnZXMy2w4AAQAAAP////8BAAAAAAAAAAwCAAAAWFRyYXZlbEd1YXJkLldlYi5CdXNpbmVzc0VudGl0eSwgVmVyc2lvbj0yLjEzLjExLjE0LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAC9UcmF2ZWxHdWFyZC5XZWIuQnVzaW5lc3NFbnRpdHkuT3B0aW9uYWxQYWNrYWdlcwEAAAATQ29sbGVjdGlvbkJhc2UrbGlzdAMcU3lzdGVtLkNvbGxlY3Rpb25zLkFycmF5TGlzdAIAAAAJAwAAAAQDAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQQAAAAGAAAABgAAABAEAAAACAAAAAkFAAAACQYAAAAJBwAAAAkIAAAACQkAAAAJCgAAAA0CBQUAAAAzVHJhdmVsR3VhcmQuV2ViLkJ1c2luZXNzRW50aXR5Lk9wdGlvbmFsUGFja2FnZUNsYXNzEAAAAA91bml0c09mQ292ZXJhZ2UEZGF5cwRjYXJzC3BhY2thZ2VDb2RlCXBhY2thZ2VJRAtwYWNrYWdlVHlwZQhzZWxlY3RlZA91c2VyQ29udHJvbFBhdGgMY292ZXJhZ2VUeXBlDHRvdGFsUHJlbWl1bQp0YXhQcmVtaXVtC2ZlZXNQcmVtaXVtEnBhY2thZ2VEaXNwbGF5TmFtZQ5fdHJhY2tpbmdQcmljZQpfYmVnaW5EYXRlCF9lbmREYXRlAAAAAQAEAAEEAAAAAQMDAwUICAgyVHJhdmVsR3VhcmQuV2ViLkJ1c2luZXNzRW50aXR5Lk9wdGlvbmFsUGFja2FnZVR5cGUCAAAAAStUcmF2ZWxHdWFyZC5XZWIuQnVzaW5lc3NFbnRpdHkuQ292ZXJhZ2VUeXBlAgAAAAUFBXBTeXN0ZW0uTnVsbGFibGVgMVtbU3lzdGVtLkRlY2ltYWwsIG1zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dcVN5c3RlbS5OdWxsYWJsZWAxW1tTeXN0ZW0uRGF0ZVRpbWUsIG1zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dcVN5c3RlbS5OdWxsYWJsZWAxW1tTeXN0ZW0uRGF0ZVRpbWUsIG1zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAEwAAAAAAAAAAAGCwAAAAVGQkNEV9kJAAAF9P///zJUcmF2ZWxHdWFyZC5XZWIuQnVzaW5lc3NFbnRpdHkuT3B0aW9uYWxQYWNrYWdlVHlwZQEAAAAHdmFsdWVfXwAIAgAAAAoAAAAACgXz////K1RyYXZlbEd1YXJkLldlYi5CdXNpbmVzc0VudGl0eS5Db3ZlcmFnZVR5cGUBAAAAB3ZhbHVlX18ACAIAAAAAAAAAATABMAEwBg4AAAAgT3B0aW9uYWwgQ29sbGlzaW9uIERhbWFnZSBXYWl2ZXIKCgoBBgAAAAUAAAABMAAAAAAAAAAABg8AAAANQ0hFQ0tUT1NFTEVDVNsJAAAB8P////T///8SAAAAAAoB7/////P///8AAAAAATABMAEwBhIAAAAiT3B0aW9uYWwgRXhwYW5kZWQgQmVuZWZpdHMgVXBncmFkZQoKCgEHAAAABQAAAAEwAAAAAAAAAAAGEwAAAA1DSEVDS1RPU0VMRUNU2gkAAAHs////9P///xIAAAAACgHr////8////wAAAAABMAEwATAGFgAAACJPcHRpb25hbCBDcnVpc2UgYW5kIFRvdXIgUHJvdGVjdG9yCgoKAQgAAAAFAAAAATAAAAAAAAAAAAYXAAAADUNIRUNLVE9TRUxFQ1TcCQAAAej////0////EgAAAAAKAef////z////AAAAAAEwATABMAYaAAAAIE9wdGlvbmFsIEdvbGYgUHJvdGVjdG9yIENvdmVyYWdlCgoKAQkAAAAFAAAAATAAAAAAAAAAAAYbAAAADUNIRUNLVE9TRUxFQ1TdCQAAAeT////0////EgAAAAAKAeP////z////AAAAAAEwATABMAYeAAAAH09wdGlvbmFsIFNraSBQcm90ZWN0b3IgQ292ZXJhZ2UKCgoBCgAAAAUAAAABMAAAAAAAAAAABh8AAAANQ0hFQ0tUT1NFTEVDVNgJAAAB4P////T///8SAAAAAAoB3/////P///8AAAAAATABMAEwBiIAAAAkT3B0aW9uYWwgQnVzaW5lc3MgUHJvdGVjdG9yIENvdmVyYWdlCgoKCx4HcHJlbWl1bWQeB3Byb2R1Y3Qygg4AAQAAAP////8BAAAAAAAAAAwCAAAAWFRyYXZlbEd1YXJkLldlYi5CdXNpbmVzc0VudGl0eSwgVmVyc2lvbj0yLjEzLjExLjE0LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAACtUcmF2ZWxHdWFyZC5XZWIuQnVzaW5lc3NFbnRpdHkuUHJvZHVjdENsYXNzHAAAAAtwcm9kdWN0Q29kZQVwY29kZQZwbGFuSUQQb3B0aW9uYWxQYWNrYWdlcw91bml0c09mQ292ZXJhZ2UTbnVtYmVyT2ZSZW50YWxVbml0cwRkYXlzBXVuaXRzDGNvdmVyYWdlVHlwZQ5zdWJtaXNzaW9uVHlwZQ9ib29raW5nVHJpcENvc3QQc2F2ZVF1b3RlU3ViVHlwZQtwcm9kdWN0TmFtZQtwYXJlbnRRdW90ZQxwYXJlbnRQb2xpY3kHc3RhdGVJRAdvcmRlcklEFV9jYWxjdWxhdG9yTGF5b3V0Q29kZRNpc0NvbXBldGl0b3JQcm9kdWN0EHByb2R1Y3RPd25lck5hbWULUHJvZHVjdEZsYWcOcHJvZHVjdEdyb3VwSUQHZGlzcGxheQ53ZWJTZXJ2aWNlQ29kZQ1lZmZlY3RpdmVEYXRlDXRlbXBUcmF2ZWxlcnMPX3F1ZXN0aW9uYWlyZUlEF3RlbXBOdW1iZXJPZlJlbnRhbFVuaXRzAQEDBAMDAwMEAwMBAQQEAwEDAAEEAAABAAEAAAxTeXN0ZW0uSW50MzIvVHJhdmVsR3VhcmQuV2ViLkJ1c2luZXNzRW50aXR5Lk9wdGlvbmFsUGFja2FnZXMCAAAAcFN5c3RlbS5OdWxsYWJsZWAxW1tTeXN0ZW0uRGVjaW1hbCwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1uU3lzdGVtLk51bGxhYmxlYDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1uU3lzdGVtLk51bGxhYmxlYDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1uU3lzdGVtLk51bGxhYmxlYDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0rVHJhdmVsR3VhcmQuV2ViLkJ1c2luZXNzRW50aXR5LkNvdmVyYWdlVHlwZQIAAAAMU3lzdGVtLkludDMycFN5c3RlbS5OdWxsYWJsZWAxW1tTeXN0ZW0uRGVjaW1hbCwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0pVHJhdmVsR3VhcmQuV2ViLkJ1c2luZXNzRW50aXR5LlF1b3RlQ2xhc3MCAAAAKlRyYXZlbEd1YXJkLldlYi5CdXNpbmVzc0VudGl0eS5Qb2xpY3lDbGFzcwIAAABuU3lzdGVtLk51bGxhYmxlYDFbW1N5c3RlbS5JbnQzMiwgbXNjb3JsaWIsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0MU3lzdGVtLkludDMyASpUcmF2ZWxHdWFyZC5XZWIuQnVzaW5lc3NFbnRpdHkuU3BlY2lhbEZsYWcCAAAACAENCAgCAAAABgMAAAAGMjIyMTAwBgQAAAAEQ0FBSQgI4R8AAAoKCgoKBfv///8rVHJhdmVsR3VhcmQuV2ViLkJ1c2luZXNzRW50aXR5LkNvdmVyYWdlVHlwZQEAAAAHdmFsdWVfXwAIAgAAAAAAAAAICAQAAAAKCgYGAAAAHFNpbHZlciBBbGwgSW5jbHVzaXZlIFBhY2thZ2UKCgoKCAgXAAAAAAoF+f///ypUcmF2ZWxHdWFyZC5XZWIuQnVzaW5lc3NFbnRpdHkuU3BlY2lhbEZsYWcBAAAAB3ZhbHVlX18ACAIAAAAAAAAAAAAAAAAGCAAAAAZGQlAtQ0EAAAAAAAAAAAoAAAAAAAAAAAseClJlZ2lvbkNvZGUFAmNhHglsYXN0UXVvdGVkHgxfcXVlcnlTdHJpbmcFX3N0PTUyJmNuPTImYXJjPTk2NTM4OTkzJmFnZW5jeWVtYWlsPSZpbml0aWFscz0mUElEPSZyZz1jYSZsYW5nPWVuJnByYz0yMjIxMDAmYnI9YWdlbnRjb25zdW1lcmNhHgxMYW5ndWFnZUNvZGUFAmVuFgJmD2QWAmYPZBYCAgMPZBYEAgUPZBYEAgUPZBYMZg9kFgQCAw8PFgIeBFRleHQFD0FMQkVSVEEsIENBTkFEQWRkAgUPDxYEHgtOYXZpZ2F0ZVVybAUZamF2YXNjcmlwdDpnb0JhY2tDaGVjaygpOx8JBQdHbyBCYWNrZGQCAQ9kFgQCAQ8PFgIfCQUcU2lsdmVyIEFsbCBJbmNsdXNpdmUgUGFja2FnZWRkAgIPFgIeBGhyZWYFdmphdmFzY3JpcHQ6b3BlbndpbmRvdygnL3RnaTIvcHJvYy9sYXVuY2guYXNweD9mcj0xJm9wPWNsb3NlJnBsYW49ODE2MSZwY29kZT1DQUFJJmJyPWFnZW50Y29uc3VtZXJjYSZwcmM9MjIyMTAwJnN0PTUyJylkAgIPZBYKAgIPPCsACQEADxYEHghEYXRhS2V5cxYAHgtfIUl0ZW1Db3VudAL/////D2RkAgQPFgIeB1Zpc2libGVoZAIFDxYCHw5oFgICAQ9kFgJmDw8WAh8OaGRkAggPFgIfDmhkAgkPFgIfDmgWAgIBD2QWAmYPDxYCHw5oZGQCBQ8PFgIfDmhkZAIGDw8WAh8OaGRkAgcPZBYCZg8VAQpjYWxjdWxhdG9yZAIHD2QWAgIBD2QWCGYPDxYCHgpIZWFkZXJUZXh0BSdGb2xsb3dpbmcgcHJvYmxlbXMgbmVlZCB5b3VyIGF0dGVudGlvbjpkZAICD2QWBAIBD2QWAmYPZBYCZg9kFgJmD2QWAgIDD2QWAmYPZBYIAgEPFQIBMg9hZ2VudGNvbnN1bWVyY2FkAgMPEA8WBh4LXyFEYXRhQm91bmRnHg1EYXRhVGV4dEZpZWxkBQRuYW1lHg5EYXRhVmFsdWVGaWVsZAUEY29kZWQQFfEBAAtBRkdIQU5JU1RBTgdBTEJBTklBB0FMR0VSSUEOQU1FUklDQU4gU0FNT0EHQU5ET1JSQQZBTkdPTEEIQU5HVUlMTEEKQU5UQVJDVElDQRNBTlRJR1VBIEFORCBCQVJCVURBCUFSR0VOVElOQQdBUk1FTklBBUFSVUJBCUFVU1RSQUxJQQdBVVNUUklBCkFaRVJCQUlKQU4HQkFIQU1BUwdCQUhSQUlOCkJBTkdMQURFU0gIQkFSQkFET1MHQkVMQVJVUwdCRUxHSVVNBkJFTElaRQVCRU5JTgdCRVJNVURBBkJIVVRBTgdCT0xJVklBB0JPTkFJUkUUQk9TTklBICYgSEVSWkVHT1ZJTkEIQk9UU1dBTkEGQk9VVkVUBkJSQVpJTB5CUklUSVNIIElORElBTiBPQ0VBTiBURVJSSVRPUlkGQlJVTkVJCEJVTEdBUklBDEJVUktJTkEgRkFTTw1CVVJNQS9NWUFOTUFSB0JVUlVOREkUQ0FNQk9ESUEgKEtBTVBVQ0hFQSkIQ0FNRVJPT04GQ0FOQURBCkNBUEUgVkVSREUJQ0FSSUJCRUFODkNBWU1BTiBJU0xBTkRTGENFTlRSQUwgQUZSSUNBTiBSRVBVQkxJQwRDSEFEBUNISUxFBUNISU5BEENIUklTVE1BUyBJU0xBTkQXQ09DT1MgKEtFRUxJTkcpIElTTEFORFMIQ09MT01CSUEHQ09NT1JPUx1DT05HTywgREVNT0NSQVRJQyBSRVBVQkxJQyBPRhJDT05HTywgUkVQVUJMSUMgT0YMQ09PSyBJU0xBTkRTCkNPU1RBIFJJQ0EPQ09URSBE4oCZSVZPSVJFB0NST0FUSUEEQ1VCQQZDWVBSVVMOQ1pFQ0ggUkVQVUJMSUMHREVOTUFSSwhESklCT1VUSQhET01JTklDQRJET01JTklDQU4gUkVQVUJMSUMKRUFTVCBUSU1PUgdFQ1VBRE9SBUVHWVBUC0VMIFNBTFZBRE9SEUVRVUFUT1JJQUwgR1VJTkVBB0VSSVRSRUEHRVNUT05JQQhFVEhJT1BJQRBGQUxLTEFORCBJU0xBTkRTDUZBUk9FIElTTEFORFMERklKSQdGSU5MQU5EBkZSQU5DRQ1GUkVOQ0ggR1VJQU5BEEZSRU5DSCBQT0xZTkVTSUEhRlJFTkNIIFNPVVRIRVJOICYgQU5UQVJDVElDIExBTkRTBUdBQk9OBkdBTUJJQQdHRU9SR0lBB0dFUk1BTlkFR0hBTkEJR0lCUkFMVEFSBkdSRUVDRQlHUkVFTkxBTkQHR1JFTkFEQQpHVUFERUxPVVBFBEdVQU0JR1VBVEVNQUxBBkdVSU5FQQ1HVUlORUEtQklTU0FVBkdVWUFOQQVIQUlUSRhIRUFSRCAmIE1DRE9OQUxEIElTTEFORFMXSE9MWSBTRUUgKFZBVElDQU4gQ0lUWSkISE9ORFVSQVMJSE9ORyBLT05HB0hVTkdBUlkHSUNFTEFORAVJTkRJQQlJTkRPTkVTSUEESVJBTgRJUkFRB0lSRUxBTkQGSVNSQUVMBUlUQUxZB0pBTUFJQ0EFSkFQQU4GSk9SREFOCktBWkFLSFNUQU4FS0VOWUEIS0lSSUJBVEkMS09SRUEsIE5PUlRIDEtPUkVBLCBTT1VUSAZLVVdBSVQKS1lSR1laU1RBTgRMQU9TBkxBVFZJQQdMRUJBTk9OB0xFU09USE8HTElCRVJJQQVMSUJZQQ1MSUVDSFRFTlNURUlOCUxJVEhVQU5JQQpMVVhFTUJPVVJHBU1BQ0FVCU1BQ0VET05JQQpNQURBR0FTQ0FSBk1BTEFXSQhNQUxBWVNJQQhNQUxESVZFUwRNQUxJBU1BTFRBEE1BUlNIQUxMIElTTEFORFMKTUFSVElOSVFVRQpNQVVSSVRBTklBCU1BVVJJVElVUwdNQVlPVFRFBk1FWElDTx9NSUNST05FU0lBLCBGRURFUkFURUQgU1RBVEVTIE9GB01PTERPVkEGTU9OQUNPCE1PTkdPTElBCk1PTlRFTkVHUk8KTU9OVFNFUlJBVAdNT1JPQ0NPCk1PWkFNQklRVUUHTkFNSUJJQQVOQVVSVQVORVBBTAtORVRIRVJMQU5EUxRORVRIRVJMQU5EUyBBTlRJTExFUw1ORVcgQ0FMRURPTklBC05FVyBaRUFMQU5ECU5JQ0FSQUdVQQVOSUdFUgdOSUdFUklBBE5JVUUOTk9SRk9MSyBJU0xBTkQYTk9SVEhFUk4gTUFSSUFOQSBJU0xBTkRTBk5PUldBWQRPTUFOCFBBS0lTVEFOBVBBTEFVBlBBTkFNQRBQQVBVQSBORVcgR1VJTkVBCFBBUkFHVUFZBFBFUlULUEhJTElQUElORVMQUElUQ0FJUk4gSVNMQU5EUwZQT0xBTkQIUE9SVFVHQUwLUFVFUlRPIFJJQ08FUUFUQVIHUkVVTklPTgdST01BTklBBlJVU1NJQQZSV0FOREEMU0FJTlQgSEVMRU5BE1NBSU5UIEtJVFRTICYgTkVWSVMLU0FJTlQgTFVDSUEXU0FJTlQgUElFUlJFICYgTUlRVUVMT04eU0FJTlQgVklOQ0VOVCAmIFRIRSBHUkVOQURJTkVTBVNBTU9BClNBTiBNQVJJTk8TU0FPIFRPTUUgJiBQUklOQ0lQRQxTQVVESSBBUkFCSUEHU0VORUdBTAZTRVJCSUEKU0VZQ0hFTExFUwxTSUVSUkEgTEVPTkUJU0lOR0FQT1JFG1NJTlQgTUFBUlRFTiAvIFNBSU5ULU1BUlRJTghTTE9WQUtJQQhTTE9WRU5JQQ9TT0xPTU9OIElTTEFORFMHU09NQUxJQQxTT1VUSCBBRlJJQ0EFU1BBSU4JU1JJIExBTktBBVNVREFOCFNVUklOQU1FHFNWQUxCQVJEICYgSkFOIE1BWUVOIElTTEFORFMJU1dBWklMQU5EBlNXRURFTgtTV0lUWkVSTEFORAVTWVJJQQZUQUlXQU4KVEFKSUtJU1RBTghUQU5aQU5JQQhUSEFJTEFORARUT0dPD1RPS0VMQVUgSVNMQU5EUwVUT05HQRFUUklOSURBRCAmIFRPQkFHTwdUVU5JU0lBBlRVUktFWQxUVVJLTUVOSVNUQU4WVFVSS1MgJiBDQUlDT1MgSVNMQU5EUwZUVVZBTFUGVUdBTkRBB1VLUkFJTkUUVU5JVEVEIEFSQUIgRU1JUkFURVMOVU5JVEVEIEtJTkdET00YVU5JVEVEIFNUQVRFUyBPRiBBTUVSSUNBB1VSVUdVQVkKVVpCRUtJU1RBTgdWQU5VQVRVCVZFTkVaVUVMQQdWSUVUTkFNGFZJUkdJTiBJU0xBTkRTIChCUklUSVNIKRRWSVJHSU4gSVNMQU5EUyAoVVNBKQ9XQUxMSVMgJiBGVVRVTkEOV0VTVEVSTiBTQUhBUkEFWUVNRU4GWkFNQklBCFpJTUJBQldFFfEBAAE5AzE0MwMxNDQDMTAwAzE0NQMxNDYDMTI3AzI0NAMxMjYCMTkDMTQ3AjE4AjE3AjIwAzE0OAIyMQI3NQMxMTICMjIDMTM2AjgyAjIzAzE1MAI3NwMxNTEDMTM1AzI3NwMxMjQDMTM0AzI0NQIyNAMyNDYDMTU0Ajk4AzE1NQMxMjEDMTU2AzEzMwMxNTgBMgMxNTkDMjQxAjI1AzE2MAMxNjECMjYCMjcDMjQ4AzI0OQIyOAMxNjIDMjUwAzE2MwMyNTECMjkDMTY0Ajg2Ajg1ATUDMTAyAjM0AzE2NQMxMzECMzEDMTY3AjMyAjMzAjk3AzE2OAMxNjkDMTA3AzE0MQMyNTIDMjUzAjM1AjY2AjEwAzI1NAMyNDADMjU1AzEwNgMxNzEDMTcyATcDMTI1AzI1NgIzNgMyNTcCODkDMTEzAjYzAjc2AzE3MwMxNzQDMTExAzE3NQMyNTgDMTc2AjkzAjM3AjM4AzE0MAE2AzExMAMxMjIDMjQzAjM5AjQwATQCNDEBOAMxMzcDMTI5AjQzAzE4MAMxNDIDMTAxAzE4MQMxMTcDMTgyAjczAzEyMAMxODMDMTg0AzEyMwMxODUDMTg2AzE4NwMyNTkDMTg4AzE4OQMxOTACODADMTkxAzE5MgMxOTMDMTk0AjY4AzE5NQMxOTYDMjYwATMCOTEDMTk4AzE5OQMyMDADMjc2AzI2MQI4NwMyMDEDMTMyAzIwMwI0NQI0NgMxMTkDMjYyAjQ3Ajc5AzIwNAMxMTgDMjYzAzI2NAMyNjUCNDgDMjA2AzEwOQMyMDcCOTIDMTM5AzIwOQI4OAI0OQMyNjYCNTACNTECMTEDMjEwAzI2NwMxMTQCNzADMjExAzI2OAMxMjgDMjEyAzI2OQMxMDgDMjEzAzIxNAMyMTUCODMDMjE2AzEwNAMyMTcDMjE4Ajc0AjU0Ajk1AzIxOQMyMjADMjIxAjUyAjUzAzEzOAI5NgMyMjMDMjcwAzIyNAI1OAI1OQI2NAI3MgMyMjUDMjI2AjYxAzIyNwMyNzEDMjI4AjgxAzIzMAI2MgMyMzECOTQDMjMyAzEzMAI5OQMxMDUCMTUBMQI2NwMyMzQDMjM1Ajc4AjkwAzI3MgMyNzMDMjc0AzI3NQMyMzYCODQDMTAzFCsD8QFnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgECKGQCBA8WAh8OZxYCAgEPZBYCAgEPEA8WBh8QZx8RBQRuYW1lHxIFAmlkZBAVDgAHQUxCRVJUQRBCUklUSVNIIENPTFVNQklBCE1BTklUT0JBDU5FVyBCUlVOU1dJQ0sZTkVXRk9VTkRMQU5EIEFORCBMQUJSQURPUhVOT1JUSFdFU1QgVEVSUklUT1JJRVMLTk9WQSBTQ09USUEHTlVOQVZVVAdPTlRBUklPFFBSSU5DRSBFRFdBUkQgSVNMQU5EBlFVRUJFQwxTQVNLQVRDSEVXQU4FWVVLT04VDgACNTICNTMCNTQCNTUCNTYCNTcCNTgCNjkCNTkCNjACNjECNjICNjMUKwMOZ2dnZ2dnZ2dnZ2dnZ2dkZAIFDw8WAh4HRW5hYmxlZGhkZAIDD2QWAmYPZBYUAgEPDxYCHwkFDkRlcGFydHVyZSBEYXRlZGQCAw8PFgIeDEVycm9yTWVzc2FnZQUaRGVwYXJ0dXJlIGRhdGUgaXMgcmVxdWlyZWRkZAIFDw8WAh4JTWF4TGVuZ3RoZmRkAgcPDxYGHgxNaW5pbXVtVmFsdWUFCTQvMTUvMjAxNh4MTWF4aW11bVZhbHVlBQoxMi8zMS85OTk5HxQFJERlcGFydHVyZSBkYXRlIGNhbm5vdCBiZSBpbiB0aGUgcGFzdGRkAgsPFhgeCkFjY2VwdEFtUG1oHhZDdWx0dXJlQU1QTVBsYWNlaG9sZGVyBQVBTTtQTR4bQ3VsdHVyZVRob3VzYW5kc1BsYWNlaG9sZGVyBQEsHgtDdWx0dXJlTmFtZQUFZW4tVVMeEUN1bHR1cmVEYXRlRm9ybWF0BQNNRFkeGUN1bHR1cmVEZWNpbWFsUGxhY2Vob2xkZXIFAS4eDklucHV0RGlyZWN0aW9uCymKAUFqYXhDb250cm9sVG9vbGtpdC5NYXNrZWRFZGl0SW5wdXREaXJlY3Rpb24sIEFqYXhDb250cm9sVG9vbGtpdCwgVmVyc2lvbj0xLjAuMTA5MjAuMzI4ODAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MjhmMDFiMGU4NGI2ZDUzZQAeIEN1bHR1cmVDdXJyZW5jeVN5bWJvbFBsYWNlaG9sZGVyBQEkHhZDdWx0dXJlVGltZVBsYWNlaG9sZGVyBQE6HhZDdWx0dXJlRGF0ZVBsYWNlaG9sZGVyBQEvHg5BY2NlcHROZWdhdGl2ZQsphgFBamF4Q29udHJvbFRvb2xraXQuTWFza2VkRWRpdFNob3dTeW1ib2wsIEFqYXhDb250cm9sVG9vbGtpdCwgVmVyc2lvbj0xLjAuMTA5MjAuMzI4ODAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MjhmMDFiMGU4NGI2ZDUzZQAeDERpc3BsYXlNb25leQsrBQBkAg0PDxYCHwkFC1JldHVybiBEYXRlZGQCDw8PFgIfFAUXUmV0dXJuIGRhdGUgaXMgcmVxdWlyZWRkZAIRDw8WAh8VZmRkAhMPDxYGHxYFCTQvMTUvMjAxNh8XBQoxMi8zMS85OTk5HxQFHVJldHVybiBkYXRlIGNhbm5vdCBiZSBpbiBwYXN0ZGQCFw8WGB8YaB8ZBQVBTTtQTR8aBQEsHxsFBWVuLVVTHxwFA01EWR8dBQEuHx4LKwQAHx8FASQfIAUBOh8hBQEvHyILKwUAHyMLKwUAZAIED2QWAgIBD2QWAmYPZBYEAgEPFgIfDQIFFgxmD2QWBmYPFQIBMg9hZ2VudGNvbnN1bWVyY2FkAgMPDxYCHw5oZGQCBA8PFgIfDmhkZAIBD2QWEAIBDw8WBB8JBQ1UcmF2ZWxsZXIgIyAxHw5oZGQCBw8WAh4NV2F0ZXJtYXJrVGV4dAUKRmlyc3Qg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b2d1ZSgnL3RnaTIvcHJvYy9jb250ZW50bGluay5hc3B4P2ZyPTEmbG5rPTEmcGtnPTI1MjQmcGxhbj04MTYxJmxhbmc9ZW4mcmc9Y2EmcGt5PTE4JnBzPTImYnI9YWdlbnRjb25zdW1lcmNhJyx0aGlzLCdPcHRpb25hbCBHb2xmIFByb3RlY3RvciBDb3ZlcmFnZScpO3JldHVybiBmYWxzZTsfCwUBIx8mBRBRdWVzdGlvbk9wdGlvbmFsFgJmDw8WAh8JBSBPcHRpb25hbCBHb2xmIFByb3RlY3RvciBDb3ZlcmFnZWRkAgEPZBYCAgEPZBYCZg8WAh8OaGQCBA9kFgJmDxYCHyYFGG9wdGlvbmFsUGFja2FnZVVuQ2hlY2tlZBYEZg9kFgICAQ9kFgJmDxYGHycFqgFQb3BEaWFsb2d1ZSgnL3RnaTIvcHJvYy9jb250ZW50bGluay5hc3B4P2ZyPTEmbG5rPTEmcGtnPTI1MjUmcGxhbj04MTYxJmxhbmc9ZW4mcmc9Y2EmcGt5PTE4JnBzPTImYnI9YWdlbnRjb25zdW1lcmNhJyx0aGlzLCdPcHRpb25hbCBTa2kgUHJvdGVjdG9yIENvdmVyYWdlJyk7cmV0dXJuIGZhbHNlOx8LBQEjHyYFEFF1ZXN0aW9uT3B0aW9uYWwWAmYPDxYCHwkFH09wdGlvbmFsIFNraSBQcm90ZWN0b3IgQ292ZXJhZ2VkZAIBD2QWAgIBD2QWAmYPFgIfDmhkAgUPZBYCZg8WAh8mBRhvcHRpb25hbFBhY2thZ2VVbkNoZWNrZWQWBGYPZBYCAgEPZBYCZg8WBh8nBa8BUG9wRGlhbG9ndWUoJy90Z2kyL3Byb2MvY29udGVudGxpbmsuYXNweD9mcj0xJmxuaz0xJnBrZz0yNTIwJnBsYW49ODE2MSZsYW5nPWVuJnJnPWNhJnBreT0xOCZwcz0yJmJyPWFnZW50Y29uc3VtZXJjYScsdGhpcywnT3B0aW9uYWwgQnVzaW5lc3MgUHJvdGVjdG9yIENvdmVyYWdlJyk7cmV0dXJuIGZhbHNlOx8LBQEjHyYFEFF1ZXN0aW9uT3B0aW9uYWwWAmYPDxYCHwkFJE9wdGlvbmFsIEJ1c2luZXNzIFByb3RlY3RvciBDb3ZlcmFnZWRkAgEPZBYCAgEPZBYCZg8WAh8OaGQCCQ9kFgQCAQ9kFgICAw8PFgQeC3Byb2R1Y3ROYW1lZB4MdG90YWxQcmVtaXVtBQQwLjAwZGQCBQ9kFgJmD2QWAgIBDw8WAh8OaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYGBUNjdGwwMCRjdGwwMCRwdXJjaGFzZVBhdGhDb250YWluZXIkc3RlcENvbnRhaW5lciRmYmNkdzI1MjEkY2hrU2VsZWN0BUtjdGwwMCRjdGwwMCRwdXJjaGFzZVBhdGhDb250YWluZXIkc3RlcENvbnRhaW5lciRjaGVja3Rvc2VsZWN0MjUyMyRjaGtTZWxlY3QFS2N0bDAwJGN0bDAwJHB1cmNoYXNlUGF0aENvbnRhaW5lciRzdGVwQ29udGFpbmVyJGNoZWNrdG9zZWxlY3QyNTIyJGNoa1NlbGVjdAVLY3RsMDAkY3RsMDAkcHVyY2hhc2VQYXRoQ29udGFpbmVyJHN0ZXBDb250YWluZXIkY2hlY2t0b3NlbGVjdDI1MjQkY2hrU2VsZWN0BUtjdGwwMCRjdGwwMCRwdXJjaGFzZVBhdGhDb250YWluZXIkc3RlcENvbnRhaW5lciRjaGVja3Rvc2VsZWN0MjUyNSRjaGtTZWxlY3QFS2N0bDAwJGN0bDAwJHB1cmNoYXNlUGF0aENvbnRhaW5lciRzdGVwQ29udGFpbmVyJGNoZWNrdG9zZWxlY3QyNTIwJGNoa1NlbGVjdA5l51M3sEW8fpahDFRDbHSfIyQo">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="./Quote Calculator_files/WebResource(1).axd" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+function DeptDate(theDate)
+{
+var deptDate = new Date();
+deptDate = document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtDepartureDate");
+
+retDate = document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtReturnDate");
+
+getDeptDate(deptDate, retDate);
+}
+var STORESITE = "travelguard-ca";
+var STORECOUNTRY = "canada";
+var STOREARC = "96538993";
+var STOREBRAND = "agentconsumerca";
+
+var tripLen = '';
+var travAge = '';
+var tripDept = '';
+var travCount = '';//]]>
+</script>
+
+<script src="./Quote Calculator_files/ScriptResource.axd" type="text/javascript"></script>
+<script src="./Quote Calculator_files/ScriptResource(1).axd" type="text/javascript"></script>
+<script src="./Quote Calculator_files/ScriptResource(2).axd" type="text/javascript"></script>
+<script src="./Quote Calculator_files/calculator.aspx" type="text/javascript"></script>
+<script src="./Quote Calculator_files/WebResource(2).axd" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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">
+</div>
+	<div class="trackingCode">
+		
+	<!---->
+    
+    <div id="ctl00_ctl00_PageBeginTrackingHolder_PageBeginTrackingHolder2_panelTrackingContainer">
+	
+    
+</div> 
+
+
+	</div>
+
+	
+	<div id="ctl00_ctl00_headerContentContainer_panelHeader">
+	
+        <div id="M_H_DIV0">
+            <div id="M_H_DIV1">
+            <div id="M_H_DIV2">
+            <div id="M_H_DIV3">
+                <div class="M_H_Logout">Agent ARC#: 96538993</div>
+                <a name="top"></a>
+                <a href="http://www.travelguardagents.ca/agentlink/agent.asp?ta_arc=96538993&amp;loggedin=96538993&amp;agentlinkasp=yes&amp;strAgentLinkasp=yes" class="M_H_TGlogo"><img src="./Quote Calculator_files/TG_logo2.png" alt="Travel Guard" class="M_H_siteLogo"></a>
+                <div class="M_H_MainNav">
+                    <a href="http://www.travelguardagents.ca/agentlink/agent.asp?ta_arc=96538993&amp;loggedin=96538993&amp;agentlinkasp=yes&amp;strAgentLinkasp=yes">Products</a> <img src="./Quote Calculator_files/separator.png" alt="" class="M_H_navSeparator">
+                    <a href="http://www.travelguardagents.ca/agentlink/chartisConsumer/whybuy.asp?ta_arc=96538993&amp;loggedin=96538993&amp;agentlinkasp=yes&amp;strAgentLinkasp=yes">Why Buy Travel Insurance?</a>
+                </div>
+            </div><!-- end M_H_DIV3 -->
+            </div><!-- end M_H_DIV2 -->
+            </div><!-- end M_H_DIV1 -->
+        </div><!-- end M_H_DIV0 -->
+    
+</div>
+	
+
+    <div id="M_C_DIV1">
+    <div id="M_C_DIV2">
+            
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$purchasePathContainer$scriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$ctl00$purchasePathContainer$stepContainer$panelDestination','tctl00$ctl00$purchasePathContainer$stepContainer$ucTripPart0$updateDestination'], [], [], 90);
+//]]>
+</script>
+
+    
+    <div id="divProgressContainer">
+		
+    <img id="ctl00_ctl00_purchasePathContainer_progressContainer_imgStep1" class="ProgressBar" src="./Quote Calculator_files/purchase_steps1.png" style="border-width:0px;">
+
+	</div><!-- end divProgressContainer -->
+	
+    <div id="divPagecontainer">        
+		<div id="divStepContainer">
+			
+    <div id="TGLogoWrap" class="fpHide"><img id="TGLogo" alt="AIG Travel Guard" src="./Quote Calculator_files/TG_logo3.png"></div>
+	
+<div class="cssDivSelectedState">
+    <span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedState_lblResidentOf" class="ResidencyLabel">Resident of</span><br>
+    <span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedState_lblStateCountryName">ALBERTA, CANADA</span><br>
+    <a id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedState_linkStateSelector" href="javascript:goBackCheck();">Go Back</a>
+</div>
+<input name="ctl00$ctl00$purchasePathContainer$summaryContainer$ucSelectedState$hStateID" type="hidden" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedState_hStateID" value="52"><input name="ctl00$ctl00$purchasePathContainer$summaryContainer$ucSelectedState$hCountryCode" type="hidden" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedState_hCountryCode" value="2">
+
+    <div id="divSelectedProduct" class="divSelectedProduct">
+<script type="text/javascript" language="javascript" src="./Quote Calculator_files/utils.js"></script>
+<div class="selectedProductTitle">Product</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td class="selectedProductLinks"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_lblYourSelection" class="uiProductSelection">You have selected</span></td>
+</tr>
+<tr>
+	<td class="selectedProductLinks"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_lblProductTitle" class="uiProductTitle">Silver All Inclusive Package</span></td>
+</tr>
+<tr>
+	<td class="selectedProductLinks"><a href="javascript:openwindow(&#39;/tgi2/proc/launch.aspx?fr=1&amp;op=close&amp;plan=8161&amp;pcode=CAAI&amp;br=agentconsumerca&amp;prc=222100&amp;st=52&#39;)" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_linkInfo">Coverage Details</a></td>
+</tr>	
+</tbody></table>
+<input name="ctl00$ctl00$purchasePathContainer$summaryContainer$ucSelectedProduct$hPCODE" type="hidden" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_hPCODE" value="CAAI"><input name="ctl00$ctl00$purchasePathContainer$summaryContainer$ucSelectedProduct$hPlanID" type="hidden" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_hPlanID" value="8161"><input name="ctl00$ctl00$purchasePathContainer$summaryContainer$ucSelectedProduct$hProductCode" type="hidden" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_hProductCode" value="222100">
+<input name="ctl00$ctl00$purchasePathContainer$summaryContainer$ucSelectedProduct$hSubmissionType" type="hidden" id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucSelectedProduct_hSubmissionType" value="4"></div>
+    <div id="divSpecialOfferContainer" class="divSpecialOfferContainer"></div>
+    <div id="divCalculatorPremium" class="divCalculatorPremium">
+<div class="divCalculatorPremium2">
+<div class="summaryTitle">Your Quote</div>
+	<table id="tblPremium" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		    <td class="calculatorPremiumTitle"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblStandard" class="uiPremiumCaption">Base Premium:</span>&nbsp;</td>
+			<td class="calculatorPremiumPrice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblStandardPremium" class="uiPremiumValue">$0.00</span></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<!-- premium breakup for optional packages -->
+			    <!-- end premium breakup -->
+	        </td>
+	    </tr>
+	    <tr id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_trAdditionalPremium">
+	<td class="calculatorPremiumTitle"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblAdditional" class="uiPremiumCaption">Additional:</span></td>
+	<td class="calculatorPremiumPrice"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblAdditionalPremium" class="uiPremiumValue">$0.00</span></td>
+</tr>
+
+	    
+	    
+	    <tr>
+		    <td nowrap="" class="calculatorPremiumTitle"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblFees" class="uiPremiumCaption">Total Fees:</span></td>
+		    <td class="calculatorPremiumPrice"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblFeesPremium" class="uiPremiumValue">$0.00</span></td>
+	    </tr>
+	    
+	    
+	</tbody></table>
+</div>
+<table class="tblPremiumTotal" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td class="tblPremiumTitle"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblTotal" class="uiPremiumCaption">Total:</span></td>
+	<td class="tblPremiumPrice"><span id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucPremium_lblTotalPremium" class="uiPremiumValue">$0.00</span></td>
+</tr>
+</tbody></table></div>
+    <div id="PPmoveTo" class="calculatorButtons"></div>
+    <div class="clear"></div>
+    
+<!-- VeriSign logo -->
+<div id="ctl00_ctl00_purchasePathContainer_summaryContainer_ucVeriSignCert_divCertificateContainer" class="VeriSigncalcSummary">
+
+		<script type="text/javascript" src="./Quote Calculator_files/getseal"></script>
+	</div>
+    <span id="ctl00_ctl00_purchasePathContainer_summaryContainer_lblRequiredField" class="requiredfield">*denotes a required field</span>
+    <div class="SaveGetQuoteLink"></div>
+    <div class="RetrieveQuoteLink-calc-pi"></div>
+	<div class="calculator"></div>
+    
+
+	
+		</div><!-- end divStepContainer -->
+		
+		<div id="divSummaryContainer">
+			
+<div id="ctl00_ctl00_purchasePathContainer_stepContainer_pnlInnerStepContainer" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ctl00_purchasePathContainer_stepContainer_btnBuyNowWork&#39;)">
+	
+    
+    <div id="ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary" class="uiErrorBox" style="color:Red;display:none;">
+
+	</div>
+    
+
+    
+
+    <div id="quoteQuestionnaire"><!-- for tgdirect toggle effect usage -->
+        <div id="ctl00_ctl00_purchasePathContainer_stepContainer_divTripDates" class="divTripDates">
+            <div id="ctl00_ctl00_purchasePathContainer_stepContainer_panelDestination">
+		
+<script type="text/javascript" language="javascript" src="./Quote Calculator_files/tripcarrierui.js"></script>
+
+
+
+
+<div id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_updateDestination">
+			
+        
+        <table id="tblTripDestination" width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td class="inputField">
+                    <a href="https://buy.travelguard.com/tgi2/calculators/PI/calculator.aspx?st=52&amp;cn=2&amp;arc=96538993&amp;pCode=CAAI&amp;plan=8161&amp;agencyemail=&amp;initials=&amp;PID=&amp;rg=ca&amp;lang=en&amp;prc=222100&amp;br=agentconsumerca#" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=5&amp;rg=&amp;lg=&amp;pky=&amp;ps=2&amp;br=agentconsumerca&#39;, this, &#39;Destination Country&#39;);return false;" class="QuestionTitle">
+                        <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_lblDestinationCountry">Destination Country</span></a>
+                    <span class="requiredfield">*</span>
+                </td>
+                <td>
+                    <select name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripPart0$destCountryList" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ctl00$purchasePathContainer$stepContainer$ucTripPart0$destCountryList\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_destCountryList" class="cssDrpCountryState">
+				<option value=""></option>
+				<option value="9">AFGHANISTAN</option>
+				<option value="143">ALBANIA</option>
+				<option value="144">ALGERIA</option>
+				<option value="100">AMERICAN SAMOA</option>
+				<option value="145">ANDORRA</option>
+				<option value="146">ANGOLA</option>
+				<option value="127">ANGUILLA</option>
+				<option value="244">ANTARCTICA</option>
+				<option value="126">ANTIGUA AND BARBUDA</option>
+				<option value="19">ARGENTINA</option>
+				<option value="147">ARMENIA</option>
+				<option value="18">ARUBA</option>
+				<option value="17">AUSTRALIA</option>
+				<option value="20">AUSTRIA</option>
+				<option value="148">AZERBAIJAN</option>
+				<option value="21">BAHAMAS</option>
+				<option value="75">BAHRAIN</option>
+				<option value="112">BANGLADESH</option>
+				<option value="22">BARBADOS</option>
+				<option value="136">BELARUS</option>
+				<option value="82">BELGIUM</option>
+				<option value="23">BELIZE</option>
+				<option value="150">BENIN</option>
+				<option value="77">BERMUDA</option>
+				<option value="151">BHUTAN</option>
+				<option value="135">BOLIVIA</option>
+				<option value="277">BONAIRE</option>
+				<option value="124">BOSNIA &amp; HERZEGOVINA</option>
+				<option value="134">BOTSWANA</option>
+				<option value="245">BOUVET</option>
+				<option value="24">BRAZIL</option>
+				<option value="246">BRITISH INDIAN OCEAN TERRITORY</option>
+				<option value="154">BRUNEI</option>
+				<option value="98">BULGARIA</option>
+				<option value="155">BURKINA FASO</option>
+				<option value="121">BURMA/MYANMAR</option>
+				<option value="156">BURUNDI</option>
+				<option value="133">CAMBODIA (KAMPUCHEA)</option>
+				<option value="158">CAMEROON</option>
+				<option selected="selected" value="2">CANADA</option>
+				<option value="159">CAPE VERDE</option>
+				<option value="241">CARIBBEAN</option>
+				<option value="25">CAYMAN ISLANDS</option>
+				<option value="160">CENTRAL AFRICAN REPUBLIC</option>
+				<option value="161">CHAD</option>
+				<option value="26">CHILE</option>
+				<option value="27">CHINA</option>
+				<option value="248">CHRISTMAS ISLAND</option>
+				<option value="249">COCOS (KEELING) ISLANDS</option>
+				<option value="28">COLOMBIA</option>
+				<option value="162">COMOROS</option>
+				<option value="250">CONGO, DEMOCRATIC REPUBLIC OF</option>
+				<option value="163">CONGO, REPUBLIC OF</option>
+				<option value="251">COOK ISLANDS</option>
+				<option value="29">COSTA RICA</option>
+				<option value="164">COTE D’IVOIRE</option>
+				<option value="86">CROATIA</option>
+				<option value="85">CUBA</option>
+				<option value="5">CYPRUS</option>
+				<option value="102">CZECH REPUBLIC</option>
+				<option value="34">DENMARK</option>
+				<option value="165">DJIBOUTI</option>
+				<option value="131">DOMINICA</option>
+				<option value="31">DOMINICAN REPUBLIC</option>
+				<option value="167">EAST TIMOR</option>
+				<option value="32">ECUADOR</option>
+				<option value="33">EGYPT</option>
+				<option value="97">EL SALVADOR</option>
+				<option value="168">EQUATORIAL GUINEA</option>
+				<option value="169">ERITREA</option>
+				<option value="107">ESTONIA</option>
+				<option value="141">ETHIOPIA</option>
+				<option value="252">FALKLAND ISLANDS</option>
+				<option value="253">FAROE ISLANDS</option>
+				<option value="35">FIJI</option>
+				<option value="66">FINLAND</option>
+				<option value="10">FRANCE</option>
+				<option value="254">FRENCH GUIANA</option>
+				<option value="240">FRENCH POLYNESIA</option>
+				<option value="255">FRENCH SOUTHERN &amp; ANTARCTIC LANDS</option>
+				<option value="106">GABON</option>
+				<option value="171">GAMBIA</option>
+				<option value="172">GEORGIA</option>
+				<option value="7">GERMANY</option>
+				<option value="125">GHANA</option>
+				<option value="256">GIBRALTAR</option>
+				<option value="36">GREECE</option>
+				<option value="257">GREENLAND</option>
+				<option value="89">GRENADA</option>
+				<option value="113">GUADELOUPE</option>
+				<option value="63">GUAM</option>
+				<option value="76">GUATEMALA</option>
+				<option value="173">GUINEA</option>
+				<option value="174">GUINEA-BISSAU</option>
+				<option value="111">GUYANA</option>
+				<option value="175">HAITI</option>
+				<option value="258">HEARD &amp; MCDONALD ISLANDS</option>
+				<option value="176">HOLY SEE (VATICAN CITY)</option>
+				<option value="93">HONDURAS</option>
+				<option value="37">HONG KONG</option>
+				<option value="38">HUNGARY</option>
+				<option value="140">ICELAND</option>
+				<option value="6">INDIA</option>
+				<option value="110">INDONESIA</option>
+				<option value="122">IRAN</option>
+				<option value="243">IRAQ</option>
+				<option value="39">IRELAND</option>
+				<option value="40">ISRAEL</option>
+				<option value="4">ITALY</option>
+				<option value="41">JAMAICA</option>
+				<option value="8">JAPAN</option>
+				<option value="137">JORDAN</option>
+				<option value="129">KAZAKHSTAN</option>
+				<option value="43">KENYA</option>
+				<option value="180">KIRIBATI</option>
+				<option value="142">KOREA, NORTH</option>
+				<option value="101">KOREA, SOUTH</option>
+				<option value="181">KUWAIT</option>
+				<option value="117">KYRGYZSTAN</option>
+				<option value="182">LAOS</option>
+				<option value="73">LATVIA</option>
+				<option value="120">LEBANON</option>
+				<option value="183">LESOTHO</option>
+				<option value="184">LIBERIA</option>
+				<option value="123">LIBYA</option>
+				<option value="185">LIECHTENSTEIN</option>
+				<option value="186">LITHUANIA</option>
+				<option value="187">LUXEMBOURG</option>
+				<option value="259">MACAU</option>
+				<option value="188">MACEDONIA</option>
+				<option value="189">MADAGASCAR</option>
+				<option value="190">MALAWI</option>
+				<option value="80">MALAYSIA</option>
+				<option value="191">MALDIVES</option>
+				<option value="192">MALI</option>
+				<option value="193">MALTA</option>
+				<option value="194">MARSHALL ISLANDS</option>
+				<option value="68">MARTINIQUE</option>
+				<option value="195">MAURITANIA</option>
+				<option value="196">MAURITIUS</option>
+				<option value="260">MAYOTTE</option>
+				<option value="3">MEXICO</option>
+				<option value="91">MICRONESIA, FEDERATED STATES OF</option>
+				<option value="198">MOLDOVA</option>
+				<option value="199">MONACO</option>
+				<option value="200">MONGOLIA</option>
+				<option value="276">MONTENEGRO</option>
+				<option value="261">MONTSERRAT</option>
+				<option value="87">MOROCCO</option>
+				<option value="201">MOZAMBIQUE</option>
+				<option value="132">NAMIBIA</option>
+				<option value="203">NAURU</option>
+				<option value="45">NEPAL</option>
+				<option value="46">NETHERLANDS</option>
+				<option value="119">NETHERLANDS ANTILLES</option>
+				<option value="262">NEW CALEDONIA</option>
+				<option value="47">NEW ZEALAND</option>
+				<option value="79">NICARAGUA</option>
+				<option value="204">NIGER</option>
+				<option value="118">NIGERIA</option>
+				<option value="263">NIUE</option>
+				<option value="264">NORFOLK ISLAND</option>
+				<option value="265">NORTHERN MARIANA ISLANDS</option>
+				<option value="48">NORWAY</option>
+				<option value="206">OMAN</option>
+				<option value="109">PAKISTAN</option>
+				<option value="207">PALAU</option>
+				<option value="92">PANAMA</option>
+				<option value="139">PAPUA NEW GUINEA</option>
+				<option value="209">PARAGUAY</option>
+				<option value="88">PERU</option>
+				<option value="49">PHILIPPINES</option>
+				<option value="266">PITCAIRN ISLANDS</option>
+				<option value="50">POLAND</option>
+				<option value="51">PORTUGAL</option>
+				<option value="11">PUERTO RICO</option>
+				<option value="210">QATAR</option>
+				<option value="267">REUNION</option>
+				<option value="114">ROMANIA</option>
+				<option value="70">RUSSIA</option>
+				<option value="211">RWANDA</option>
+				<option value="268">SAINT HELENA</option>
+				<option value="128">SAINT KITTS &amp; NEVIS</option>
+				<option value="212">SAINT LUCIA</option>
+				<option value="269">SAINT PIERRE &amp; MIQUELON</option>
+				<option value="108">SAINT VINCENT &amp; THE GRENADINES</option>
+				<option value="213">SAMOA</option>
+				<option value="214">SAN MARINO</option>
+				<option value="215">SAO TOME &amp; PRINCIPE</option>
+				<option value="83">SAUDI ARABIA</option>
+				<option value="216">SENEGAL</option>
+				<option value="104">SERBIA</option>
+				<option value="217">SEYCHELLES</option>
+				<option value="218">SIERRA LEONE</option>
+				<option value="74">SINGAPORE</option>
+				<option value="54">SINT MAARTEN / SAINT-MARTIN</option>
+				<option value="95">SLOVAKIA</option>
+				<option value="219">SLOVENIA</option>
+				<option value="220">SOLOMON ISLANDS</option>
+				<option value="221">SOMALIA</option>
+				<option value="52">SOUTH AFRICA</option>
+				<option value="53">SPAIN</option>
+				<option value="138">SRI LANKA</option>
+				<option value="96">SUDAN</option>
+				<option value="223">SURINAME</option>
+				<option value="270">SVALBARD &amp; JAN MAYEN ISLANDS</option>
+				<option value="224">SWAZILAND</option>
+				<option value="58">SWEDEN</option>
+				<option value="59">SWITZERLAND</option>
+				<option value="64">SYRIA</option>
+				<option value="72">TAIWAN</option>
+				<option value="225">TAJIKISTAN</option>
+				<option value="226">TANZANIA</option>
+				<option value="61">THAILAND</option>
+				<option value="227">TOGO</option>
+				<option value="271">TOKELAU ISLANDS</option>
+				<option value="228">TONGA</option>
+				<option value="81">TRINIDAD &amp; TOBAGO</option>
+				<option value="230">TUNISIA</option>
+				<option value="62">TURKEY</option>
+				<option value="231">TURKMENISTAN</option>
+				<option value="94">TURKS &amp; CAICOS ISLANDS</option>
+				<option value="232">TUVALU</option>
+				<option value="130">UGANDA</option>
+				<option value="99">UKRAINE</option>
+				<option value="105">UNITED ARAB EMIRATES</option>
+				<option value="15">UNITED KINGDOM</option>
+				<option value="1">UNITED STATES OF AMERICA</option>
+				<option value="67">URUGUAY</option>
+				<option value="234">UZBEKISTAN</option>
+				<option value="235">VANUATU</option>
+				<option value="78">VENEZUELA</option>
+				<option value="90">VIETNAM</option>
+				<option value="272">VIRGIN ISLANDS (BRITISH)</option>
+				<option value="273">VIRGIN ISLANDS (USA)</option>
+				<option value="274">WALLIS &amp; FUTUNA</option>
+				<option value="275">WESTERN SAHARA</option>
+				<option value="236">YEMEN</option>
+				<option value="84">ZAMBIA</option>
+				<option value="103">ZIMBABWE</option>
+
+			</select>
+                </td>
+            </tr>
+            <tr id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_trStateRow">
+				<td class="inputField">
+                    <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_Label1">Destination State/Province</span>
+                    <span class="requiredfield">*</span>
+                </td>
+				<td>
+                    <select name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripPart0$drpDestinationState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_drpDestinationState" class="cssDrpCountryState">
+					<option value=""></option>
+					<option value="52">ALBERTA</option>
+					<option value="53">BRITISH COLUMBIA</option>
+					<option value="54">MANITOBA</option>
+					<option value="55">NEW BRUNSWICK</option>
+					<option value="56">NEWFOUNDLAND AND LABRADOR</option>
+					<option value="57">NORTHWEST TERRITORIES</option>
+					<option value="58">NOVA SCOTIA</option>
+					<option value="69">NUNAVUT</option>
+					<option value="59">ONTARIO</option>
+					<option value="60">PRINCE EDWARD ISLAND</option>
+					<option value="61">QUEBEC</option>
+					<option value="62">SASKATCHEWAN</option>
+					<option value="63">YUKON</option>
+
+				</select></td>
+			</tr>
+			
+        </tbody></table>
+        <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry" style="color:Red;display:none;"></span>
+        <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripPart0$ofacValid" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_ofacValid">
+        <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripPart0$ofacCountryList" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_ofacCountryList">
+        <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState" style="color:Red;display:none;"></span>
+    
+		</div>
+
+	</div>
+            
+<script src="./Quote Calculator_files/tripdates.js" type="text/javascript"></script>
+<table id="tblTrip" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+        <td width="50%" class="inputField2" align="right">
+            <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_lblDepartureDate">Departure Date</span>
+            <span class="requiredfield">*</span>
+            <span class="fineprint" style="font-weight: normal;">(mm/dd/yyyy)</span>
+		    <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate" style="color:Red;display:none;"></span></td>
+        <td width="50%" class="tdCaption">
+            <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripDate$txtDepartureDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtDepartureDate" class="textDate" onchange="DeptDate(this)">
+            <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate" style="color:Red;visibility:hidden;">*</span>
+            
+            <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripDate$maskDepartureDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_maskDepartureDate_ClientState">
+        </td>
+    </tr>
+    <tr>
+        <td class="inputField2" align="right">
+            <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_lblReturnDate">Return Date</span>
+            <span class="requiredfield">*</span>
+            <span class="fineprint" style="font-weight: normal;">(mm/dd/yyyy)</span>
+            <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate" style="color:Red;display:none;"></span>
+        </td>
+        <td class="tdCaption">
+            <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripDate$txtReturnDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtReturnDate" class="textDate" onchange="DeptDate(this)">
+		    <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate" style="color:Red;visibility:hidden;">*</span><br>
+            
+            <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTripDate$maskReturnDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_maskReturnDate_ClientState">
+        </td>
+    </tr>
+</tbody></table>
+
+        </div>
+        <div id="ctl00_ctl00_purchasePathContainer_stepContainer_divProductPart" class="divProductPart">
+            
+        </div>
+        <div id="ctl00_ctl00_purchasePathContainer_stepContainer_divTravelerGrid" class="divProductPart2">
+            
+<div id="travelerGridContainer" class="travelerGridContainer">
+    
+            <table cellpadding="0" cellspacing="0" border="0" class="travelerGridTable">
+                <tbody><tr>
+                    <td class="pctNameTitle">Traveller Name <span class="requiredfield">*</span></td>
+                    <td class="travelerCost">
+                        <a href="https://buy.travelguard.com/tgi2/calculators/PI/calculator.aspx?st=52&amp;cn=2&amp;arc=96538993&amp;pCode=CAAI&amp;plan=8161&amp;agencyemail=&amp;initials=&amp;PID=&amp;rg=ca&amp;lang=en&amp;prc=222100&amp;br=agentconsumerca#" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=4&amp;rg=&amp;lg=&amp;pky=&amp;ps=2&amp;br=agentconsumerca&#39;, this, &#39;Trip Cost&#39;);return false;" class="QuestionTitle">
+                        <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl00_lblTripCost">Trip Cost <span class="requiredfield">*</span></span></a> 
+                    </td>
+                    <td class="tdTravelerBDate"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl00_lblBirthDate">Birth Date <span class="requiredfield">*</span><br><span class="fineprint">(mm/dd/yyyy)</span></span></td>
+                    <td class="tdTravelerDependent"></td>
+                    <td class="tdTravelerDeductible"></td>                
+                    <td class="travelerPremium"></td>
+                </tr>
+        
+            <tr>
+                <td class="tdPctName">
+                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$txtFirstName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtFirstName" class="watermarkedhint">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$txtLastName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtLastName" class="watermarkedhint">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$wmFirstName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_wmFirstName_ClientState">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$wmLastName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_wmLastName_ClientState">                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$hTravelerID" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_hTravelerID" value="1">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$hQnRequired" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_hQnRequired" value="0">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$hPoints" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_hPoints" value="-1">
+                </td>
+                <td class="tdTravelerTripCost"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$txtTripCost" type="text" maxlength="10" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtTripCost" class="txtWebTripCost"></td>
+                <td class="tdTravelerBDate">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$txtBirthDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtBirthDate" class="txtWebTripCost">
+                    &nbsp;
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl01$maskBirthDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_maskBirthDate_ClientState">
+                </td>
+                <td class="tdTravelerDependent"></td>
+                <td class="tdTravelerDeductible"></td>
+                <td class="tdTravelerPremium"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_lblPremium"></span></td>
+            </tr>
+        
+            <tr>
+                <td class="tdPctName">
+                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$txtFirstName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtFirstName" class="watermarkedhint">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$txtLastName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtLastName" class="watermarkedhint">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$wmFirstName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_wmFirstName_ClientState">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$wmLastName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_wmLastName_ClientState">                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$hTravelerID" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_hTravelerID" value="2">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$hQnRequired" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_hQnRequired" value="0">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$hPoints" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_hPoints" value="-1">
+                </td>
+                <td class="tdTravelerTripCost"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$txtTripCost" type="text" maxlength="10" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtTripCost" class="txtWebTripCost"></td>
+                <td class="tdTravelerBDate">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$txtBirthDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtBirthDate" class="txtWebTripCost">
+                    &nbsp;
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl02$maskBirthDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_maskBirthDate_ClientState">
+                </td>
+                <td class="tdTravelerDependent"></td>
+                <td class="tdTravelerDeductible"></td>
+                <td class="tdTravelerPremium"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_lblPremium"></span></td>
+            </tr>
+        
+            <tr>
+                <td class="tdPctName">
+                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$txtFirstName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtFirstName" class="watermarkedhint">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$txtLastName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtLastName" class="watermarkedhint">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$wmFirstName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_wmFirstName_ClientState">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$wmLastName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_wmLastName_ClientState">                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$hTravelerID" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_hTravelerID" value="3">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$hQnRequired" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_hQnRequired" value="0">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$hPoints" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_hPoints" value="-1">
+                </td>
+                <td class="tdTravelerTripCost"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$txtTripCost" type="text" maxlength="10" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtTripCost" class="txtWebTripCost"></td>
+                <td class="tdTravelerBDate">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$txtBirthDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtBirthDate" class="txtWebTripCost">
+                    &nbsp;
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl03$maskBirthDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_maskBirthDate_ClientState">
+                </td>
+                <td class="tdTravelerDependent"></td>
+                <td class="tdTravelerDeductible"></td>
+                <td class="tdTravelerPremium"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_lblPremium"></span></td>
+            </tr>
+        
+            <tr>
+                <td class="tdPctName">
+                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$txtFirstName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtFirstName" class="watermarkedhint">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$txtLastName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtLastName" class="watermarkedhint">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$wmFirstName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_wmFirstName_ClientState">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$wmLastName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_wmLastName_ClientState">                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$hTravelerID" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_hTravelerID" value="4">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$hQnRequired" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_hQnRequired" value="0">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$hPoints" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_hPoints" value="-1">
+                </td>
+                <td class="tdTravelerTripCost"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$txtTripCost" type="text" maxlength="10" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtTripCost" class="txtWebTripCost"></td>
+                <td class="tdTravelerBDate">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$txtBirthDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtBirthDate" class="txtWebTripCost">
+                    &nbsp;
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl04$maskBirthDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_maskBirthDate_ClientState">
+                </td>
+                <td class="tdTravelerDependent"></td>
+                <td class="tdTravelerDeductible"></td>
+                <td class="tdTravelerPremium"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_lblPremium"></span></td>
+            </tr>
+        
+            <tr>
+                <td class="tdPctName">
+                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$txtFirstName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtFirstName" class="watermarkedhint">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$txtLastName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtLastName" class="watermarkedhint">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$wmFirstName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_wmFirstName_ClientState">
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$wmLastName_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_wmLastName_ClientState">                    
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$hTravelerID" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_hTravelerID" value="5">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$hQnRequired" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_hQnRequired" value="0">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$hPoints" type="hidden" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_hPoints" value="-1">
+                </td>
+                <td class="tdTravelerTripCost"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$txtTripCost" type="text" maxlength="10" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtTripCost" class="txtWebTripCost"></td>
+                <td class="tdTravelerBDate">
+                    <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$txtBirthDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtBirthDate" class="txtWebTripCost">
+                    &nbsp;
+                    <input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$rpTravelers$ctl05$maskBirthDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_maskBirthDate_ClientState">
+                </td>
+                <td class="tdTravelerDependent"></td>
+                <td class="tdTravelerDeductible"></td>
+                <td class="tdTravelerPremium"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_lblPremium"></span></td>
+            </tr>
+        
+            </tbody></table>
+        
+     <div class="fineprint" style="padding: 10px 0 5px 10px;">
+        <strong><span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_lblTripVeribage"></span></strong>
+    </div>
+</div>
+<div id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_AddMoreOptionContainer" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_btnAddMore&#39;)">
+		  
+<table class="tdAddMoreText">
+    <tbody><tr>
+        <td class="tdAddMoreResidencyRestrictionDisclaimer">
+            
+        </td>
+        <td>
+            <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_lblAddMore">Add more travellers</span>
+            <input name="ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$txtAddMore" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_txtAddMore" class="txtAddMore">
+            <a id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_btnAddMore" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$purchasePathContainer$stepContainer$ucTravelerGrid$btnAddMore&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">+ Add</a>
+            <span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator" style="color:Red;display:none;"></span>
+        </td>
+    </tr>
+</tbody></table>
+
+	</div>
+<span id="ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator" style="color:Red;display:none;"></span>
+        </div>
+        <div id="ctl00_ctl00_purchasePathContainer_stepContainer_divAgencyPart" class="divAgencyPart">
+            
+        </div>
+    </div>
+    <div id="ctl00_ctl00_purchasePathContainer_stepContainer_divOptionalPackageContainer" class="divOptionalPackageContainer">
+        <img id="ctl00_ctl00_purchasePathContainer_stepContainer_imgOptionals" src="./Quote Calculator_files/optionalCoverages.png" style="border-width:0px;"><br>
+        <table id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_fbcdw" border="0" cellspacing="0" cellpadding="0" class="optionalPackageUnChecked">
+		<tbody><tr>
+			<td class="TDcheckbox"><span class="checkbox"><input id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_chkSelect" type="checkbox" name="ctl00$ctl00$purchasePathContainer$stepContainer$fbcdw2521$chkSelect" onclick="getTableId(this);"></span></td>
+			<td class="TDproduct"><a href="https://buy.travelguard.com/tgi2/usercontrols/optionalpackage/#" id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_linkPackageDesc" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=1&amp;pkg=2521&amp;plan=8161&amp;lang=en&amp;rg=ca&amp;pky=10&amp;ps=2&amp;br=agentconsumerca&#39;,this,&#39;Optional Collision Damage Waiver&#39;);return false;" class="QuestionOptional"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_lblOptionalPackageName" class="uiOptionalPackageName">Renters Collision Insurance</span></a></td>
+			<td nowrap="nowrap" class="TDprice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_lblPremium" class="optionalPremium">*</span>&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_lblFees" class="optionalPremium"></span></td>
+		</tr>
+		<tr>
+			<td class="TDblank">&nbsp;</td>
+			<td colspan="2" class="TDoptions">
+			
+<table id="tblTripCarrierContainer" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td class="cdwRow1"><strong>*<span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_lblBeginDate">Pickup Date</span>:</strong></td>
+		<td class="cdwRow2"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$fbcdw2521$ucTripCarrier$txtBeginDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_txtBeginDate" style="width:70px;"> &nbsp;&nbsp;&nbsp;<strong>*<span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_lblEndDate">Return Date</span>:</strong>&nbsp;<input name="ctl00$ctl00$purchasePathContainer$stepContainer$fbcdw2521$ucTripCarrier$txtEndDate" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_txtEndDate" style="width:70px;">
+		<input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$fbcdw2521$ucTripCarrier$maskBeginDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_maskBeginDate_ClientState">
+		<input type="hidden" name="ctl00$ctl00$purchasePathContainer$stepContainer$fbcdw2521$ucTripCarrier$maskEndDate_ClientState" id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_maskEndDate_ClientState"></td>
+	</tr>
+	<tr>
+		<td class="cdwRow1"><strong><span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_lblCarrierType">Rental Car</span>:</strong></td>
+		<td class="cdwRow2"><input name="ctl00$ctl00$purchasePathContainer$stepContainer$fbcdw2521$ucTripCarrier$txtCarrierName" type="text" id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_txtCarrierName" autocomplete="off">
+                </td>
+	</tr>
+</tbody></table>
+			<span>Please ensure your Rental Pickup date is provided and is before your Return date.</span>
+		</td>
+		</tr>
+	</tbody></table>
+	
+<span id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage" style="color:Red;display:none;"></span>
+<table id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2523_checktoselect2523" border="0" cellspacing="0" cellpadding="0" class="optionalPackageUnChecked">
+		<tbody><tr>
+			<td class="TDcheckbox"><span class="checkbox"><input id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2523_chkSelect" type="checkbox" name="ctl00$ctl00$purchasePathContainer$stepContainer$checktoselect2523$chkSelect" onclick="getTableId(this);"></span></td>
+			<td class="TDproduct"><a href="https://buy.travelguard.com/tgi2/usercontrols/optionalpackage/#" id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2523_linkPackageDesc" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=1&amp;pkg=2523&amp;plan=8161&amp;lang=en&amp;rg=ca&amp;pky=18&amp;ps=2&amp;br=agentconsumerca&#39;,this,&#39;Optional Expanded Benefits Upgrade&#39;);return false;" class="QuestionOptional"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2523_lblOptionalPackageName" class="uiOptionalPackageName">Optional Expanded Benefits Upgrade</span></a></td>
+			<td nowrap="nowrap" class="TDprice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2523_lblPremium" class="optionalPremium"></span>&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2523_lblFees" class="optionalPremium"></span></td>
+		</tr>
+		<tr>
+			<td class="TDblank">&nbsp;</td>
+			<td colspan="2" class="TDoptions">
+            <span class="fineprint">(not included in base price)</span>
+            
+        </td>
+		</tr>
+	</tbody></table>
+	
+
+<table id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2522_checktoselect2522" border="0" cellspacing="0" cellpadding="0" class="optionalPackageUnChecked">
+		<tbody><tr>
+			<td class="TDcheckbox"><span class="checkbox"><input id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2522_chkSelect" type="checkbox" name="ctl00$ctl00$purchasePathContainer$stepContainer$checktoselect2522$chkSelect" onclick="getTableId(this);"></span></td>
+			<td class="TDproduct"><a href="https://buy.travelguard.com/tgi2/usercontrols/optionalpackage/#" id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2522_linkPackageDesc" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=1&amp;pkg=2522&amp;plan=8161&amp;lang=en&amp;rg=ca&amp;pky=18&amp;ps=2&amp;br=agentconsumerca&#39;,this,&#39;Optional Cruise and Tour Protector&#39;);return false;" class="QuestionOptional"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2522_lblOptionalPackageName" class="uiOptionalPackageName">Optional Cruise and Tour Protector</span></a></td>
+			<td nowrap="nowrap" class="TDprice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2522_lblPremium" class="optionalPremium"></span>&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2522_lblFees" class="optionalPremium"></span></td>
+		</tr>
+		<tr>
+			<td class="TDblank">&nbsp;</td>
+			<td colspan="2" class="TDoptions">
+            <span class="fineprint">(not included in base price)</span>
+            
+        </td>
+		</tr>
+	</tbody></table>
+	
+
+<table id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2524_checktoselect2524" border="0" cellspacing="0" cellpadding="0" class="optionalPackageUnChecked">
+		<tbody><tr>
+			<td class="TDcheckbox"><span class="checkbox"><input id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2524_chkSelect" type="checkbox" name="ctl00$ctl00$purchasePathContainer$stepContainer$checktoselect2524$chkSelect" onclick="getTableId(this);"></span></td>
+			<td class="TDproduct"><a href="https://buy.travelguard.com/tgi2/usercontrols/optionalpackage/#" id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2524_linkPackageDesc" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=1&amp;pkg=2524&amp;plan=8161&amp;lang=en&amp;rg=ca&amp;pky=18&amp;ps=2&amp;br=agentconsumerca&#39;,this,&#39;Optional Golf Protector Coverage&#39;);return false;" class="QuestionOptional"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2524_lblOptionalPackageName" class="uiOptionalPackageName">Optional Golf Protector Coverage</span></a></td>
+			<td nowrap="nowrap" class="TDprice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2524_lblPremium" class="optionalPremium"></span>&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2524_lblFees" class="optionalPremium"></span></td>
+		</tr>
+		<tr>
+			<td class="TDblank">&nbsp;</td>
+			<td colspan="2" class="TDoptions">
+            <span class="fineprint">(not included in base price)</span>
+            
+        </td>
+		</tr>
+	</tbody></table>
+	
+
+<table id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2525_checktoselect2525" border="0" cellspacing="0" cellpadding="0" class="optionalPackageUnChecked">
+		<tbody><tr>
+			<td class="TDcheckbox"><span class="checkbox"><input id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2525_chkSelect" type="checkbox" name="ctl00$ctl00$purchasePathContainer$stepContainer$checktoselect2525$chkSelect" onclick="getTableId(this);"></span></td>
+			<td class="TDproduct"><a href="https://buy.travelguard.com/tgi2/usercontrols/optionalpackage/#" id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2525_linkPackageDesc" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=1&amp;pkg=2525&amp;plan=8161&amp;lang=en&amp;rg=ca&amp;pky=18&amp;ps=2&amp;br=agentconsumerca&#39;,this,&#39;Optional Ski Protector Coverage&#39;);return false;" class="QuestionOptional"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2525_lblOptionalPackageName" class="uiOptionalPackageName">Optional Ski Protector Coverage</span></a></td>
+			<td nowrap="nowrap" class="TDprice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2525_lblPremium" class="optionalPremium"></span>&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2525_lblFees" class="optionalPremium"></span></td>
+		</tr>
+		<tr>
+			<td class="TDblank">&nbsp;</td>
+			<td colspan="2" class="TDoptions">
+            <span class="fineprint">(not included in base price)</span>
+            
+        </td>
+		</tr>
+	</tbody></table>
+	
+
+<table id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2520_checktoselect2520" border="0" cellspacing="0" cellpadding="0" class="optionalPackageUnChecked">
+		<tbody><tr>
+			<td class="TDcheckbox"><span class="checkbox"><input id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2520_chkSelect" type="checkbox" name="ctl00$ctl00$purchasePathContainer$stepContainer$checktoselect2520$chkSelect" onclick="getTableId(this);"></span></td>
+			<td class="TDproduct"><a href="https://buy.travelguard.com/tgi2/usercontrols/optionalpackage/#" id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2520_linkPackageDesc" onclick="PopDialogue(&#39;/tgi2/proc/contentlink.aspx?fr=1&amp;lnk=1&amp;pkg=2520&amp;plan=8161&amp;lang=en&amp;rg=ca&amp;pky=18&amp;ps=2&amp;br=agentconsumerca&#39;,this,&#39;Optional Business Protector Coverage&#39;);return false;" class="QuestionOptional"><span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2520_lblOptionalPackageName" class="uiOptionalPackageName">Optional Business Protector Coverage</span></a></td>
+			<td nowrap="nowrap" class="TDprice">&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2520_lblPremium" class="optionalPremium"></span>&nbsp;<span id="ctl00_ctl00_purchasePathContainer_stepContainer_checktoselect2520_lblFees" class="optionalPremium"></span></td>
+		</tr>
+		<tr>
+			<td class="TDblank">&nbsp;</td>
+			<td colspan="2" class="TDoptions">
+            <span class="fineprint">(not included in base price)</span>
+            
+        </td>
+		</tr>
+	</tbody></table>
+	
+
+
+    </div>
+    <div class="bottomSummaryButtons">
+        <a id="ctl00_ctl00_purchasePathContainer_stepContainer_btnUpdate" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$purchasePathContainer$stepContainer$btnUpdate&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src="./Quote Calculator_files/btn-GetquoteALT.png"></a>
+        <a id="ctl00_ctl00_purchasePathContainer_stepContainer_btnBuyNow" class="btn-PP" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$purchasePathContainer$stepContainer$btnBuyNow&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src="./Quote Calculator_files/btn-Buynow.png"></a>
+        <div style="display: none">
+            <input type="submit" name="ctl00$ctl00$purchasePathContainer$stepContainer$btnBuyNowWork" value="_" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$purchasePathContainer$stepContainer$btnBuyNowWork&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_purchasePathContainer_stepContainer_btnBuyNowWork" style="height:5px;width:5px;">
+        </div>
+    </div>
+    <div id="ctl00_ctl00_purchasePathContainer_stepContainer_panQuoteButtonTip" class="calcGetQuote">
+
+	</div>
+
+    
+    
+<script language="javascript" type="text/javascript" src="./Quote Calculator_files/popDialogueDiv.js"></script>
+<link href="./Quote Calculator_files/popDialogueDiv.css" rel="stylesheet" type="text/css" media="all">
+<!--[if lt IE 7.]>
+	<link href="/tgi2/css/ieFix.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]-->
+
+<iframe src="javascript:&#39;&lt;html&gt;&lt;/html&gt;&#39;;" id="IEselectBoxFix" name="IEselectBoxFix" style="width: 411px; height: 180px;" frameborder="0"></iframe><!--hardcode width for IE6 iframe -->
+<div id="popDialogueShadow">
+<div id="popDialogueShadow2">
+    <div id="dialogue1" class="dialogueContainers">
+	  <table class="dialogueHeaderBar" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+	      <td id="dialogueTitle"></td>
+          <td class="dialogueTitleButton"><span id="dialogueArrow"></span><a href="javascript:PopDialogueClose();" class="ui-icon ui-icon-close" title="Close"></a></td>
+      </tr>
+	  </tbody></table>
+      <div id="dialogueIframeContent" class="dialogueContent"><iframe src="javascript:&#39;&lt;html&gt;&lt;/html&gt;&#39;;" id="dialogueIframeWindow" name="iframeWindow" frameborder="0" allowtransparency="true"></iframe></div>
+    </div><!-- end dialogue1 -->
+</div><!-- end popDialogueShadow2 -->
+</div><!-- end popDialogueShadow -->
+    <a href="https://buy.travelguard.com/tgi2/calculators/PI/calculator.aspx?st=52&amp;cn=2&amp;arc=96538993&amp;pCode=CAAI&amp;plan=8161&amp;agencyemail=&amp;initials=&amp;PID=&amp;rg=ca&amp;lang=en&amp;prc=222100&amp;br=agentconsumerca#divOptionalPackageContainer" id="anchorToOpt"></a>
+    <div id="scrollStop" style="clear:both;"></div>
+
+</div>
+
+		</div><!-- end divSummaryContainer -->          
+    </div><!-- end divPagecontainer -->
+    <hr class="divPagecontainer-clear">
+    
+
+        <div class="clear"></div>
+    </div><!--End M_C_DIV2-->
+    </div><!--End M_C_DIV1-->
+
+    
+	<div id="ctl00_ctl00_footerContentContainer_panelFooter">
+	
+
+        <div id="M_F_DIV1">
+            <div id="M_F_DIV2">
+                <div class="M_F_Box">
+                    <div class="M_F_securityItems">                   
+                        
+                        
+<!-- GeoTrust logo -->
+
+<div id="verisignLogo" class="verisignFooter">
+    
+		<!-- GeoTrust QuickSSL Icon -->
+        <script language="javascript" type="text/javascript" src="./Quote Calculator_files/si.js"></script><a tabindex="-1" href="https://smarticon.geotrust.com/smarticonprofile?Referer=https://buy.travelguard.com" onclick="return gt__md();" target="GT__SIP"><img name="cozmtmke" height="55" width="115" border="0" src="./Quote Calculator_files/smarticon" alt="Click for company profile" oncontextmenu="return false;"></a>
+	
+</div>
+
+                    </div><!-- end M_F_securityItems -->
+                    <div class="M_F_Notices">
+                       <div class="M_F_copyright">
+<span class="G_C_UWcopyright">Copyright © 2016 Travel Guard. All rights reserved.</span></div>
+                       <div class="M_F_insuranceServices">Non insurance services are provided by Travel Guard.</div>
+                        <div class="M_F_Links2">
+                            <a href="http://www.travelguard.ca/en/info/terms" target="_blank">Terms of Use</a> |
+                            <a href="http://www.travelguard.ca/en/info/Privacy" target="_blank">Privacy Policy</a>
+                        </div>
+                        <div class="clear"></div>
+                    </div><!-- end M_F_Box -->
+                </div><!-- end M_F_Notices -->
+                <div class="M_F_underwriter">
+<span class="G_C_UWBDOC">Insurance underwritten by AIG Insurance Company of Canada (AIG Canada), with its principal place of business at 120 Bremner Boulevard, Suite 2200, Toronto, ON, Canada, M5J 0A8. All policies are administered on AIG Canada’s behalf by Travel Guard Group Canada, Inc. (Travel Guard). The description herein is a brief summary only. It does not include all terms, conditions, limitations, exclusions and termination provisions of the policies described. Please refer to the actual policies for complete details.</span></div><!-- end M_F_underwriter -->
+            </div><!-- end M_F_DIV2 -->
+        </div><!-- end M_F_DIV1 -->
+        <script type="text/javascript">
+			function constExpression(w,x,y,z) { //fixes IE6 style tag issues
+				var temp = document.getElementsByTagName(w);
+				for(i=0;i<temp.length;i++){
+					if(eval("temp[i].type=='"+x+"';")){
+						eval("temp[i].style."+y+" = z;");
+					}
+				}
+				return false;
+			}
+			if ((navigator.appName=="Microsoft Internet Explorer") && (parseFloat(navigator.appVersion)<7)){ //IE6 fix
+				constExpression('input',"radio' || temp[i].type=='checkbox",'borderWidth','0');
+				constExpression('input',"radio' || temp[i].type=='checkbox",'marginRight','4px');
+				constExpression('input',"radio' || temp[i].type=='checkbox",'cursor','pointer'); 
+				constExpression('input',"radio' || temp[i].type=='checkbox",'verticalAlign','bottom');
+			}
+        </script>
+    
+</div>
+	
+
+	<div class="trackingCode">
+		
+	
+    
+<script type="text/javascript">
+    fp.updateMessageBoxLook = function (w) {
+        //replace error message with 'please note' message, change errorBox to warningBox, and update button name
+        var temp = $('#ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary');
+        var temp3 = $('#ctl00_ctl00_purchasePathContainer_stepContainer_divWarning');
+
+        if (w== true && temp && !$.trim(temp.html()) == '' && $('ul li', temp).html().toLowerCase().indexOf("the total premium has changed") >= 0) {
+            temp.addClass('warningbox messageBox'); //add colors to error box
+            var temp2 = temp.html().replace("Following problems need your attention:", "Please Note:").replace("Buy Now", "'Continue'").replace("Purchase This Plan", "'Continue'"); //update verbiage
+            temp.html(temp2);
+        } else {temp.removeClass('warningbox').removeClass('messageBox');}
+
+        if (temp3 && !$.trim(temp3.html()) == '' && $('ul li', temp3).html().toLowerCase().indexOf("kids at no additional cost") >= 0) {
+            temp3.addClass('warningbox messageBox'); //add colors to warning box
+        } else {temp3.removeClass('warningbox').removeClass('messageBox');}
+    }
+    $().ready(function () {
+        fp.updateMessageBoxLook(true);//pass true first time so that update traveler # can show as error message later on
+        $('#ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_btnAddMore, #ctl00_ctl00_purchasePathContainer_stepContainer_btnUpdate, #ctl00_ctl00_purchasePathContainer_stepContainer_btnBuyNow').click(function () {fp.updateMessageBoxLook();});
+    });
+</script>
+    <!-- wssAddToCard PI Calc Begin --> 
+    <div id="ctl00_ctl00_PageEndTrackingHolder_pageEndTrackingContainer_wssAddToCart_panelWSSContainer">
+	
+<div id="ctl00_ctl00_PageEndTrackingHolder_pageEndTrackingContainer_wssAddToCart_HitBoxCustom1_panelWSSContainer">
+		
+
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+
+    //is CA
+    if(typeof STORESITE === 'undefined' || STORESITE == ""){var STORESITE = 'travelguard-ca';}
+    if (typeof STORECOUNTRY === 'undefined' || STORECOUNTRY == "") {var STORECOUNTRY = 'canada';}
+
+    //check arc/brand
+    if(typeof STOREARC === 'undefined' || STOREARC == ""){var STOREARC = '96538993';}
+    if (typeof STOREBRAND === 'undefined' || STOREBRAND == "") {var STOREBRAND = 'agentconsumerca';}
+//-->
+</script>
+
+<script type="text/javascript" src="./Quote Calculator_files/scCustom.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+// (HitBoxCustom)
+var hbxWebEnvironment = 'Live';
+s_account = "cebwa001,cebwaglobalchartis"; //report suite ID
+var s_c_currencyCode="USD"
+var s_c_cookieDomainPeriods="2"
+var s_c_charSet="iso-8859-1" //character encoding
+var s_c_busUnit="001"  //business unit
+//-->
+</script>
+<script type="text/javascript" src="./Quote Calculator_files/siteCatalyst.js"></script>
+<script type="text/javascript">
+<!--
+
+s.linkInternalFilters="javascript:,travelguard.,.estara.com,.travelguardagents.";//internal links - travelguard
+
+s.partnerSites=""; //pipe delimited list of partner sites. (e.g. "partner1.com|partner2.com")
+s.scYear="2016";  //set with server's year if possible.  If not, update year on Jan. 1.
+s.siteID="travelguard";            // leftmost value in pagename
+s.defaultPage="index.aspx";       // filename to add when none exists
+s.scTimeZone="-6";  //-5 est, -6 cst, -7 mst, -8 pst
+s.manageVisitorType=1; //use custom function for visitor
+
+//-->
+GetStoreType();
+
+if(!TGpath1){var TGpath1;} //initialize if user hasn't
+if(!TGpath2){var TGpath2;} //initialize if user hasn't
+SubCategory = function(temp,temp2) { // set SubCategory
+	if (temp == null || temp == ''){ //IF empty, then load path
+		var filePath = location.pathname.substring(location.pathname,location.pathname.lastIndexOf('/')+1);
+		return hbxStoreType+":"+filePath;
+	} else { // ELSE populate custom value
+		return temp2+":"+temp;
+	}
+}
+
+getBrandType = function() { //check if previously agent or not and use that
+ 	var temp = s.c_r('s_pers_prop19');
+	if(temp.substring(temp.length-6,temp.length).toLowerCase() == "_agent"){
+		if(hbxStoreType.substring(hbxStoreType.length-6,hbxStoreType.length).toLowerCase() == "_agent"){
+			return hbxStoreType; //is currently an agent, so use current to update prefix
+		}else{
+			return temp; //is not agent so continue to use cookie value
+		}
+	} else {
+		return hbxStoreType; //use current brandType (hbxBrandType)
+	}
+}
+
+
+//*********************************************************
+setBrandType = getBrandType(); //set the setBrandType value
+//*********************************************************
+/* Visitor Type Custom - 08/06/09 */
+
+if(!setBrandType){setBrandType=getBrandType();} //make sure it is available b/4 you set it
+s.prop19 = setBrandType; //get agent or current value
+s.prop19=s.eVar19=s.getAndPersistValue(s.prop19,'s_pers_prop19',1825);
+if(!s.prop19){s.prop19=s.eVar19="anon";}
+var tempName=location.pathname.toLowerCase();
+s.pageName = (tempName.charAt(0)=="/")?setBrandType+":"+tempName:setBrandType+":"+"/"+tempName;//manually add ‘/’ for known IE bug w location.pathname (new window+ssl?)
+s.channel=setBrandType; //site sections (store Type [CA/US]-[3rdParty/Direct/Agent/Affiliate])
+s.prop8 = 'insurance services:americas:united states:commercial insurance:aig travel guard-us'; //MLC Level 1 - 8
+s.prop21 = scStoreArc; //User ID (ARC#)
+
+s.prop28 = scStoreSite; //Site
+s.prop30="north america"; //Region (north america)
+s.prop31 = scStoreCountry; //Country (united states) 
+s.prop32 = scStoreBrand; //Audience (Brand ID)
+s.prop33="english"; //Language
+s.prop41=hbxWebEnvironment;//Custom 1 - Environment
+</script>
+
+	</div>
+
+
+<!-- page vars would go here (AddToCart) -->  
+<script language="JavaScript" type="text/javascript">
+  if (0.00 !== 0)
+  {
+    //page was reloaded to show quote so populate what we know
+    setOpts()
+    if (scOpts !== "")
+    {
+        s.events="scAdd" //ONLY LOAD this IF optionals ARE selected!
+        s.products=";CAAI" + scOpts; // (;PCODE, ;OPTIONAL1, ;OPTIONAL2)
+    }
+   	s.eVar1 = tripLen; //Policy Period (trip length [# of days])
+	s.eVar5 = travAge; //Age (primary traveler)
+	s.eVar10 = travCount; //# of Travelers (total incl. primary)
+	s.eVar41 = tripDept;//Custom 1 - Days b/4 departure
+  }
+  else
+  {
+    //IF no optionals, then leave s.events blank and do NOT call s.products
+    s.events="scOpen"
+    setOpts()
+    s.products=";CAAI" + scOpts; // (;PCODE, ;OPTIONAL1, ;OPTIONAL2)
+  }
+  
+    //WSSAddToCart.ascx
+    /*
+    s.prop2=SubCategory(TGpath1,hbxBrandType); //Sub Category 1 (Landing/SEO/NEWS/etc.) [make sure this loads last to account for page settings]
+    s.prop3=SubCategory(TGpath2,s.prop2); //Sub Category 2 (Product/Partner/Service/etc.) [make sure this loads last to account for page settings]
+    */
+    <!--
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    //var s_code=s.t();if(s_code)document.write(s_code)//-->
+    <!-- End SiteCatalyst code version: H.20.3. -->  
+    
+    /* Conversion Variables */
+
+</script>
+
+
+</div>
+    <!-- wssAddToCard PI Calc End --> 
+
+
+	
+    <div id="ctl00_ctl00_PageEndTrackingHolder_wssFooter_panelWSSContainer">
+	
+    
+    <!-- page vars would go here (WSSFooter) -->  
+    <script language="JavaScript" type="text/javascript">
+        s.prop2=SubCategory(TGpath1,hbxStoreType); //Sub Category 1 (Landing/SEO/NEWS/etc.) [make sure this loads last to account for page settings]
+        s.prop3=SubCategory(TGpath2,s.prop2); //Sub Category 2 (Product/Partner/Service/etc.) [make sure this loads last to account for page settings]
+        <!--
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//-->
+        <!-- End SiteCatalyst code version: H.20.3. -->  
+    </script>
+
+</div>		
+ 
+
+    <div id="ctl00_ctl00_PageEndTrackingHolder_panelWSSContainer">
+	
+    
+            <script type="text/javascript" async="">
+                if (this.STORECOUNTRY && this.STORECOUNTRY.toLowerCase() == "canada") {
+                    if (hbxStoreType && hbxStoreType.toLowerCase() == "ca_direct") {//DIRECT SITES ONLY
+                        //360 Remarketing Tracking
+                        var axel = Math.random() + "";
+                        var a = axel * 10000000000000;
+                        document.write('<IFRAME defer SRC="' + document.location.protocol + '//fls.doubleclick.net/activityi;src=1774243;type=trave806;cat=trave548;u3=agentconsumerca;u4=' + scStoreArc + ';u8=' + hbxStoreType + ';u9=Live;ord=1;num=' + a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+                    } else if (hbxStoreType && hbxStoreType.toLowerCase() == "ca_agent") {//AGENT SITES ONLY
+                        //360 Remarketing Tracking
+                        var axel = Math.random() + "";
+                        var a = axel * 10000000000000;
+                        document.write('<IFRAME defer SRC="' + document.location.protocol + '//fls.doubleclick.net/activityi;src=1774243;type=trave806;cat=trave012;u3=agentconsumerca;u4=' + scStoreArc + ';u8=' + hbxStoreType + ';u9=Live;ord=1;num=' + a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+                    } else if (hbxStoreType && hbxStoreType.toLowerCase() == "ca_affiliate") {//AFFILATE SITES ONLY
+                        //360 Remarketing Tracking
+                        var axel = Math.random() + "";
+                        var a = axel * 10000000000000;
+                        document.write('<IFRAME defer SRC="' + document.location.protocol + '//fls.doubleclick.net/activityi;src=1774243;type=trave806;cat=trave548;u3=agentconsumerca;u4=' + scStoreArc + ';u8=' + hbxStoreType + ';u9=Live;ord=1;num=' + a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+                    } else {//PARTNER SITES ONLY
+
+                    }
+                    //LOAD THESE FOR ALL TGCA BRANDS/TYPES
+                    //Search Ignite - Click Tracking
+                    document.write('<s' + 'cript async language="javascript" type="text/javascript" src="' + document.location.protocol + '//track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=5308&jscript=1"><\/s' + 'cript>');
+                } else {//TGUS SITES
+                    if (hbxStoreType && hbxStoreType.toLowerCase() == "us_direct") {//DIRECT SITES ONLY
+                        //360 Remarketing Tracking
+                        var axel = Math.random() + "";
+                        var a = axel * 10000000000000;
+                        document.write('<IFRAME defer SRC="' + document.location.protocol + '//fls.doubleclick.net/activityi;src=1774243;type=trave073;cat=trave980;u3=agentconsumerca;u4=' + scStoreArc + ';u8=' + hbxStoreType + ';u9=Live;ord=1;num=' + a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+                    } else if (hbxStoreType && hbxStoreType.toLowerCase() == "us_agent") {//AGENT SITES ONLY
+
+                    } else if (hbxStoreType && hbxStoreType.toLowerCase() == "us_affiliate") {//AFFIILATE SITES ONLY
+                        //360 Remarketing Tracking
+                        var axel = Math.random()+"";
+                        var a = axel*10000000000000;
+                        document.write('<IFRAME defer SRC="' + document.location.protocol + '//fls.doubleclick.net/activityi;src=1774243;type=trave073;cat=trave980;u3=agentconsumerca;u4=' + scStoreArc + ';u8=' + hbxStoreType + ';u9=Live;ord=1;num=' + a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0></IFRAME>');
+                    } else {//PARTNER SITES ONLY
+
+                    }
+                    //LOAD THESE FOR ALL TGUS BRANDS/TYPES
+                    //Net mining 360  Organic Traffic
+                    document.write('<s' + 'cript language="javascript" type="text/javascript" async src="' + document.location.protocol + '//trvlgrd.netmng.com/?aid=088&u3=agentconsumerca&u4=' + scStoreArc + '&u8=' + hbxStoreType + '&u9=Live" defer="defer"><\/s' + 'cript>');
+                    //Search Ignite - Click Tracking
+                    document.write('<s' + 'cript defer="defer" language="javascript" type="text/javascript" async src="' + document.location.protocol + '//track.searchignite.com/si/CM/Tracking/ClickTracking.aspx?siclientid=3489&jscript=1"><\/s' + 'cript>');
+                }
+            </script><iframe defer="" src="./Quote Calculator_files/activityi.html" width="1" height="1" frameborder="0"></iframe><script async="" language="javascript" type="text/javascript" src="./Quote Calculator_files/ClickTracking.aspx"></script>
+        
+</div>
+    
+     
+    <!--Turn Tag-->
+    <img border="0" src="./Quote Calculator_files/beacon"> <!-- End Turn Tag -->
+    
+    <!--ACQUIRE Tag-->
+    <script src="./Quote Calculator_files/tp.js" type="text/javascript"></script>
+<script type="text/javascript">document.write(unescape('%3Cimg src="') + acquireinsigh.url('71734e48-0d45-44e0-9e2a-dd80a3bfb46b') + unescape('"/%3E'));</script><img src="./Quote Calculator_files/param">
+ <!-- End ACQUIRE Tag -->
+    
+
+	</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary"));
+var Page_Validators =  new Array(document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator"), document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary");
+ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary.headertext = "Following problems need your attention:";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry.enabled = "False";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate.errormessage = "Departure date is required";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.controltovalidate = "ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtDepartureDate";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.errormessage = "Departure date cannot be in the past";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.type = "Date";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.dateorder = "mdy";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.cutoffyear = "2029";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.century = "2000";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.evaluationfunction = "RangeValidatorEvaluateIsValid";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.maximumvalue = "12/31/9999";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate.minimumvalue = "4/15/2016";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate.errormessage = "Return date is required";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.controltovalidate = "ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtReturnDate";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.errormessage = "Return date cannot be in past";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.type = "Date";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.dateorder = "mdy";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.cutoffyear = "2029";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.century = "2000";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.evaluationfunction = "RangeValidatorEvaluateIsValid";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.maximumvalue = "12/31/9999";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate.minimumvalue = "4/15/2016";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.controltovalidate = "ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_txtAddMore";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.errormessage = "Maximum number of travelers permitted on a single policy is 15";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.type = "Integer";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.evaluationfunction = "RangeValidatorEvaluateIsValid";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.maximumvalue = "10";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator.minimumvalue = "0";
+var ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator");
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage = document.all ? document.all["ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage"] : document.getElementById("ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage");
+ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage.display = "None";
+ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage.evaluationfunction = "CustomValidatorEvaluateIsValid";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary').dispose = function() {
+    Array.remove(Page_ValidationSummaries, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary'));
+}
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        WebForm_AutoFocus('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_destCountryList');Sys.Application.initialize();
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationCountry'));
+}
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripPart0_customValidateDestinationState'));
+}
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateDepartureDate'));
+}
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeDepartureDate'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CalendarBehavior, {"cssClass":"cssCalendar","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_departuredateExtender"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtDepartureDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_maskDepartureDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_maskDepartureDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtDepartureDate"));
+});
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_validateReturnDate'));
+}
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_rangeReturnDate'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.CalendarBehavior, {"cssClass":"cssCalendar","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_returnDateExtender"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtReturnDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_maskReturnDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_maskReturnDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTripDate_txtReturnDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_wmFirstName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"First name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_wmFirstName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtFirstName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_wmLastName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"Last name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_wmLastName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtLastName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_maskBirthDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_maskBirthDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl01_txtBirthDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_wmFirstName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"First name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_wmFirstName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtFirstName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_wmLastName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"Last name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_wmLastName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtLastName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_maskBirthDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_maskBirthDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl02_txtBirthDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_wmFirstName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"First name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_wmFirstName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtFirstName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_wmLastName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"Last name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_wmLastName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtLastName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_maskBirthDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_maskBirthDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl03_txtBirthDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_wmFirstName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"First name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_wmFirstName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtFirstName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_wmLastName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"Last name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_wmLastName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtLastName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_maskBirthDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_maskBirthDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl04_txtBirthDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_wmFirstName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"First name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_wmFirstName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtFirstName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_wmLastName_ClientState","WatermarkCssClass":"watermarkedhint","WatermarkText":"Last name","id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_wmLastName"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtLastName"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_maskBirthDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_maskBirthDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_rpTravelers_ctl05_txtBirthDate"));
+});
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_moreTravelerValidator'));
+}
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_ucTravelerGrid_travelerValidator'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_maskBeginDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_maskBeginDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_txtBeginDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClearTextOnInvalid":true,"ClientStateFieldID":"ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_maskEndDate_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_maskEndDate"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_txtEndDate"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionSetCount":20,"delimiterCharacters":";, :","id":"ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_autoCarrier","minimumPrefixLength":2,"serviceMethod":"GetCarRentalList","servicePath":"../../proc/AutoCompleteService.asmx"}, null, null, $get("ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_txtCarrierName"));
+});
+
+document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_validatePackage'));
+}
+//]]>
+</script>
+<input type="hidden" value="1" id="hiddenInputToUpdateATBuffer_CommonToolkitScripts" name="hiddenInputToUpdateATBuffer_CommonToolkitScripts">
+</form>
+<div id="js-atavi-extension-install"></div>
+<ul id="ctl00_ctl00_purchasePathContainer_stepContainer_fbcdw2521_ucTripCarrier_autoCarrier_completionListElem" style="text-align: left; visibility: hidden; cursor: default; list-style: none; padding: 0px; border: 1px solid gray; color: black; position: absolute; background-color: white;"></ul>
+</body>
+</html>

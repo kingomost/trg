@@ -1,0 +1,1070 @@
+﻿/*****************************************
+Messages
+****************************************/
+.messageBox, div.uiErrorBox {
+	padding: 8px 8px 8px 60px;
+	margin-bottom:10px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	min-height:35px;
+	display:block;
+	min-height:58px;
+}
+.loadingBox {
+    color: #a56a10 !important;
+	border:1px solid #a56a10;
+	background:#FAF9C9 url('/tgi2/images/wait.gif') no-repeat 8px 8px;
+	background-size: 40px 40px;
+}
+.messageBox .loadingIMG{float:left; width: 75px;margin:0 15px 15px 0;}
+.successbox {
+	color: #4F8A10;
+	background:#EDFCED url('/tgi2/images/messages/success.png') no-repeat 8px 8px;
+	border:1px solid #4F8A10;
+}
+.errormsgbox, div.uiErrorBox {
+	color: #D8000C;
+	background:#FDD5CE url('/tgi2/images/messages/error.png') no-repeat 8px 8px;
+	border:1px solid #D8000C;
+}
+.fpHide{display:none;}
+.warningbox, div.uiErrorBox.warningbox {
+	color: #a56a10 !important;
+	border:1px solid #a56a10;
+	background:#FAF9C9 url('/tgi2/images/messages/warning.png') no-repeat 8px 8px;
+}
+div.uiErrorBox.warningbox ul {color: #a56a10;}
+#ctl00_ctl00_purchasePathContainer_stepContainer_errorSummary.messageBox ul, #ctl00_ctl00_purchasePathContainer_stepContainer_divWarning.messageBox ul{list-style: square outside url(/tgi2/images/lidot_warning.gif);}
+.VisibleSubITEM[style*="visibility:hidden"] .messageBox, .VisibleSubITEM[style*="visibility: hidden"] .messageBox{display:none;}/*use this to wrap .NET items that have the visible=false attribute instead of a display:none */
+/*****************************************
+Estara
+****************************************/
+.estaraCTA { /* call for help image */
+	text-align: right;
+}
+.calculator .estaraCTA { /* trip deposit/cost image */
+}
+.pct2CalculatorASPX .estaraCTA { /* trip deposit/cost image */
+}
+.pct2CompareASPX .estaraCTA { /* compare image */
+}
+
+#iframeProduct {
+	width: 100%;
+	height: 600px;
+}
+/*****************************************/
+hr.divPagecontainer-clear {
+	clear:both;
+	height:1px;
+	margin: -1px 0 0 0;
+	padding:0;
+	border:none;
+	visibility: hidden;
+}
+.fineprint {font-size: 11px; color: #666666;}
+.trackingCode{
+	position: absolute;
+	width: 100px; /*mac IE fix */
+	left: -2000px; 
+	margin-right: 0; /*mac IE fix */
+}
+.trackingCode iframe, .trackingCode img{width:1px !important;height:1px !important;float:left;}
+span.s, span.smark {
+	font-family: "Lucida Sans Unicode"; /* A rare sm-supporting font. */
+	line-height: 0; /* keep the leading consistent in a paragraph */
+	font-weight: normal;
+}
+.clear {
+	clear:both;
+	height:0;
+	font-size:1px;/*IE6 fix*/
+	 /*margin: -1px 0 0 0; CHROME has bug w drop down w this*/
+	margin: 0;
+	padding:0;
+	border:none;
+	visibility: hidden;
+	line-height:0;
+}
+.clear:before {margin: -1px 0 0 0;}
+/*****************************************
+SectionTitle
+****************************************/
+.SectionTitle {
+	font-size: 16px;
+	font-weight: bold;
+	color: #172f6b;
+}
+/*****************************************
+ProgressBar
+****************************************/
+.ProgressBar {display: block; margin-bottom: 15px;}
+.pageUpdateBox{border: 1px dotted #ff0000; color: #ff0000; padding: 4px; font-weight: bold; margin: 10px 0;}
+.pageUpdateIndicator{vertical-align: middle; margin-right: 5px;}
+/*****************************************
+Buttons
+****************************************/
+.btn-PP {margin-left: 15px;}
+A img {
+    border:0;
+    /*vertical-align: middle;*/
+}
+.bottomSummaryButtons{
+	text-align: right;
+	vertical-align: middle;
+	white-space: nowrap;
+	clear: both;
+}
+input.imageButton{height: auto;vertical-align:middle;} /*fix height dec on imagebuttons */
+.multipleButtons{
+	vertical-align: middle;
+    border:0;
+	margin-left: 10px;
+}
+#divSummaryContainer #bottomSummaryButtons .CTA_button{margin-left: 24px;}
+/*****************************************
+INPUT/RADIO/CHECKBOX/COMMNET BOX STYLE
+Note, remember to set ALL radio/checkboxes to class="checkbox" or class="radio" to turn off borders on those items
+*****************************************/
+option, input, select, textarea {
+	font: normal 12px Arial, Helvetica, sans-serif;
+	color: #575757;
+	height: 18px;
+	margin: 0px;
+	vertical-align: top;
+}
+input, textarea {
+	border: 1px solid #7B7B7B;
+	padding: 0px 2px 1px 3px;
+}
+select {
+	border: 1px solid #7B7B7B;
+	font-size: 12px;
+	height: 19px;/*align w inputs*/
+}
+.checkbox, .radio, .checkbox input, .radio input {
+	border: 0px;
+	vertical-align: middle;
+	margin-right: 5px;
+    cursor: pointer;
+}
+.uiSmallCaption input { /*specific radio/checkboxes*/
+	border: 0px;
+}
+.nameBox { /* width for input- name, phone, email, etc */
+	width: 120px;
+}
+.addressBox { /* width for input- address */
+	width: 200px;
+}
+.cardholderBox { /* width for input- address */
+	width: 200px;
+}
+.countryBox {
+	font-size: 11px;
+	font-weight: bold;
+	color:#696969;
+}
+.phoneBox {width: 90px;}
+.miBox { /* width for input- middle initial */
+	width: 15px;
+	text-align: center;
+}
+.zipBoxTD {padding-left: 7px;}
+.zipBox { /* width for input- zip */
+	width: 55px;
+	margin-left: 7px;
+}
+.cdwBox { /* width for cdw days box */
+	width: 35px;
+}
+#ucTerms_chkAccept {
+	margin-left: 3px;
+}
+.inputField { /* allows for padding around inputs, applied to td */
+	padding-right: 7px;
+	white-space:nowrap;
+	height: 25px;
+}
+.inputField2 { /* allows for padding around inputs, applied to td */
+	padding-right: 12px;
+	white-space:nowrap;
+	height: 25px;
+}
+.rowCaption {
+	font-size:11px;
+	color:#696969;
+	height: 25px;
+	vertical-align: bottom;
+}
+/*************************
+agent/reservation box
+**************************/
+.AgencyPart {
+	border: solid 1px #eeeeee;
+	padding: 8px;
+	font-size: 11px;
+	color: #696969;
+	margin: 0 0 15px 183px;
+	/*height: 80px; IE errors out */
+	background: #fff;
+}
+#divAgentInitials input, .AgencyPart input{
+	vertical-align: middle;
+}
+#divAgentInitials {
+	border: solid 1px #eeeeee;
+	padding: 25px 8px 8px 8px;
+	font-size: 11px;
+	color: #696969;
+	float: left;
+	height: 63px;
+	display: inline; /*required*/
+	margin-right: 5px;
+	width: 160px;
+	background: #fff;
+}
+/*************************
+credit card payment info
+**************************/
+.creditCardPayment { /** amount table and multiple cc fineprint **/
+	width: 100%;
+}
+
+.CreditCardContainer {width: 100%; margin-bottom: 5px;}
+.CreditCardContainer .rowCaption1 td, .rowCaption1{height: auto;} /** spacing for 1st cc line **/
+#ucPayment_ucCreditCard_txtAmount {
+	border: 0px;
+	color: #000;
+	padding-left: 0px;
+	font-weight: bold;
+	text-align: right;
+}
+.creditCardNum {
+	font-weight: bold;
+	vertical-align: bottom;
+}
+.creditCardNum span{ /* hack for FF b/c it renders padding on empty cells for cardnum */
+	display: block;
+	padding-bottom: 8px;
+}
+.SecondCreditCard {padding:0;}
+.SecondCreditCard > .SecondCreditCard {padding-top: 10px;}
+.additinalCreditCard {
+	display: inline;
+}
+.additinalCreditCardBtn {
+	margin: 0;
+	background: transparent;
+	cursor: pointer;
+	color: #e31a22;
+	font-size: 11px;
+	border: 0;
+	text-decoration: underline;
+	width: auto;
+	padding: 0;
+}
+.additinalCreditCardBtn:hover {
+	text-decoration: none;
+}
+.CreditCardValidation {display: block;}
+/*****************************************
+Trip Details
+/*****************************************/
+#tblTripDestination {margin-bottom: 10px; width: 100%;}
+.selectedProductLinks {
+	text-align: right;
+	font-size: 11px;
+}
+.selectedProductLinks A{
+	font-size: 12px;
+}
+.selectedState {
+    font-size:11px;
+	color:#696969;
+}
+.divTripDetails table{line-height: 17px;}
+.divTripDetails select {width: 245px; margin: 0 10px 0 0;}
+select.cssDrpCountryState option{font-size: 11px;}
+/*AutoComplete flyout */
+ul.autocomplete_completionListElement{
+    visibility: hidden;
+	margin: 0px;
+	color: windowtext;	
+	overflow: auto;
+	padding-left: 3px;
+    text-align: left; 
+    list-style-type: none;  
+	margin: 0px 0px 0px 10px;
+	padding: 0px 0px 0px 0px;
+	background: #fff;
+	border: 1px solid #666;
+}
+.autocomplete_completionListElement li{
+	background:#ffffff;
+	color: windowtext;
+	padding: 0px;
+	padding-left:3px;
+	margin: 0px;
+	background: white;
+}
+li.autocomplete_highlightedListItem {
+	color: black;	
+	padding-left:3px;
+	background: #666;
+	color: #fff;
+	cursor: pointer;
+}
+.watermarkedhint {
+	width: 151px;
+	font-style:italic;
+	background-color:#f4f4f4;
+	height: 16px;
+	font-size: 11px;
+}
+.unlistedItem {
+	width: 151px;
+
+	height: 16px;
+	font-size: 11px;
+}
+.carrierBox {}
+
+#divSummaryContainer div.tripInfoSummary, #divAdditionalInsuredContainer div.tripInfoSummary{color:#828282;border:1px solid #eee; background:#f4f4f4;padding:4px 8px 4px 0;margin: 4px 4px 0 -4px;}
+#divPrimaryInsured div.tripInfoSummary{margin-left: -6px;}
+#divSummaryContainer div.tripInfoSummary strong, #divAdditionalInsuredContainer div.tripInfoSummary strong{margin-left:8px;}
+#divSummaryContainer .divTripDetails div.tripInfoSummary{padding:4px 8px;margin: -4px -4px 0 -4px;}
+/*****************************************
+Selected State box
+/*****************************************/
+.cssDivSelectedState {
+    text-align: right;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+.ResidencyLabel {
+   font-weight: bold;
+   font-size: 11px;
+}
+/*****************************************
+
+/*****************************************/
+.petaCalcContent {
+	vertical-align: top;
+	width: 100%;	
+}
+.petaCalcSummary {
+	vertical-align: top;
+	padding-top: 25px;
+}
+.VeriSigncalcSummary {
+    float: right;
+    text-align: right;
+}
+#tblQuoteTravelerContainer {
+	margin-top: 10px;
+}
+.txtWebTripCost {
+	font-size:13px;
+	width:75px;
+}
+.txtWebDate {
+	width:65px;
+	font-size:13px;
+}
+.tdBorderCell {
+	border:solid 1px #eeeeee;
+}
+.tdRightBorder {
+	border-right:solid 1px #eeeeee;
+}
+.tdTopBorder {
+	border-top:solid 1px #eeeeee;
+
+
+}
+#ucGDSImport_iframeGDS {height: 0; width: 0;}
+.fulfilMessage1 {
+	color:#32619e;
+	font-size:11px;
+}
+.fulfilMessage2 {
+	color:#808080;
+	font-size:9px;
+}
+.fufillText {
+
+	color:#909090;
+	font-size:10px;
+	font-weight:bold;
+}
+.fulfillPremium {
+	color:#000000;
+	font-size:13px;
+	font-weight:bold;
+}
+.capFulfilOption {
+	color:#000000;
+	font-size:13px;
+	font-weight:bold;
+}
+#btnChangeQuote, #btnHide {
+	border: 0px;
+}
+.beneficiaryLink {
+    text-align: right;
+    clear: both;
+    margin-top: 50px;
+}
+.additionalInsLink {
+    clear: both;
+    text-align: right;
+    margin-top: 10px;
+}
+.SaveGetQuoteLink {
+    clear: both;
+    text-align: right;
+    margin-top: 10px; 
+}
+.Btn-SaveQuote {
+    width: 179px;
+    height: 46px;
+    border: 0;
+    margin-top: 20px;
+}
+.Btn-RetrieveQuote {
+    width: 145px;
+    height: 34px;
+    border: 0;
+}
+.RetrieveQuoteLink-stateselector{
+    clear: both;
+    text-align: right;
+	margin-top: 20px;
+	float: left;
+	min-width:220px;
+}
+.RetrieveQuoteLink-productlisting{
+	float: left;
+	min-width:220px;
+}
+.RetrieveQuoteLink-calc-pi{
+    clear: both;
+    text-align: right;
+	margin-top: 20px;
+}
+#divImgAddress {
+	background: transparent url(/tgi2/en-US/images/buttons/address.gif) no-repeat top left;
+}
+.dtlInsuredGridItem {
+	/*border-bottom:solid 1px #eeeeee;*/
+}
+
+.divSelectedProduct {
+	background: #e4e4e4;
+	border: 1px solid #9c9b9b;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+.selectedProductTitle {
+font-size: 15px; font-weight: bold;
+}
+.selectedProductType, .selectedProduct, .selectedProductLinks {
+	text-align: right;
+}
+
+.uiGroupCaption {
+	font-weight: bold;
+	font-size: 18px;
+	color:Gray;
+}
+.addItem{padding-left: 10px; background: transparent url(/tgi2/images/addItem.gif) no-repeat 0 50%;}
+.divLinkInfo{
+	margin-top: 8px;
+	text-align: right;
+}
+.aBuyNow, .aMoreInfo{}
+.aMoreInfo {
+	margin:5px;
+}
+.uiProductInfo {
+	color:#808080;
+	font-size: 11px;
+}
+.uiProductName {
+	font-size:16px;
+	font-weight:bold;
+	width:100%;
+	height:25px;
+	color:#000000;
+}
+.divOptionalPackageContainer {
+
+	border:solid 1px #eeeeee;
+
+    margin-bottom: 15px;
+}
+.uiOptionalPackageName {
+	font-weight:bold;
+}
+.uiOptionalPackageTip {
+	font-size:11px;
+	color:#808080;
+}
+/***********************************
+State Selector
+***********************************/
+.tblStateSelector {    
+    width: 100%;
+    padding: 10px 25px 0 25px;
+}
+.StateSelectorTitle  {
+	font-size:18px;
+	color:#32619e;
+}
+.StateSelectorContainer {
+	padding: 5px;
+	margin: 8px 0;
+	background:#f5f5f5;
+	border:solid 1px #dddddd;
+}
+.StateSelectorCaption, .StateSelectorCaption2 {
+    padding-bottom: 15px;
+}
+.StateSelectorCaption2 {
+    text-align: center;
+}
+.StateSelectorList {
+    padding: 5px 8px;
+    text-align: right;
+    width: 43%;
+}
+.StateSelectorDirectList {
+    padding: 8px;
+    text-align: center;
+}
+.cssDrpCountryState, .cssDrpCountryState {width: 230px; font-size: 11px;}
+/************************************
+Product listing
+************************************/
+.LabelProductListContainer {
+	font-size:18px;
+	background: #EFEFEF;
+	border: 1px solid #DEDFDE;
+	text-align: center;
+	padding: 4px;
+	margin-bottom: 8px;
+}
+.divProductListContainer {
+	margin:15px;
+}
+.uiProductListItem {
+    border: 1px solid #DEDFDE;
+    margin-bottom: 10px;
+    background: #fff;
+    width: 100%;
+}
+.uiProductListItem td {
+    padding: 4px;
+}
+.productLinks {
+    text-align: right;
+    white-space: nowrap;
+}
+.productLinks A{margin: 0 5px;}
+.productContent{}
+.TDListProductName{}
+.cssLabelListProductName, .uiAllProductName, .TDListProductName {
+	font: bold 14px arial;
+}
+/************************************/
+.txtDate {
+	font-size:11px;
+	font-weight:bold;
+	width:70px;
+}
+.divOfac {
+	vertical-align:bottom;
+}
+.divSectionCaption {
+	font-size:13px;
+	font-weight:bold;
+}
+.tdTravelerGrid {
+	background: #fff;
+	border: solid 1px #eeeeee;
+}
+.tdBorderBottom {
+	border-bottom:solid 1px #eeeeee;
+	font-size:1px;
+}
+.tdShaded {
+	padding: 0px 4px 0px 4px;
+	text-align: center;
+	background:#f4f4f4;
+	width:80px;
+}
+#birthSummary{
+	padding: 0px 8px 0px 8px;
+}
+.tdAddMoreResidencyRestrictionDisclaimer
+{
+    text-align:left;
+    padding: 5px;
+    width:75%;
+}
+.tdAddMoreText { /* calculator add more travelers bar */
+	background:#f4f4f4;
+	border: 1px solid #eeeeee;
+	border-top: 0;
+	text-align: right;
+	padding: 5px;
+	color: #9c9b9b;
+	vertical-align: middle;	
+    margin-bottom: 15px;
+    width:100%;
+}
+.tdAddMoreText img {vertical-align: middle;}
+.tdAddMoreControl { /* calculator add more travelers bar */
+	background:#f4f4f4;
+	border-right:solid 1px #eeeeee;
+	border-bottom:solid 1px #eeeeee;
+}
+#ucProducts_dtlProducts { /* table for all products choices on product selector*/
+	width: 100%;
+}
+#ucTravelerGrid_AddMoreOptionContainer td{ /* add more travelers bar*/
+	background: #f4f4f4;
+
+
+}
+#ucTravelerGrid_lblTripCost { /* hawaiian specific 'ticket cost' */
+	font-weight: bold;
+}
+/**************************
+QUOTE SUMMARY
+**************************/
+.divCalculatorPremium {
+	margin-bottom: 15px;
+}
+.optionalContent {
+	width: 100%;
+}
+.divCalculatorPremium2{
+    padding: 5px;
+	background: #e4e4e4;
+	border: 1px solid #9c9b9b;
+}
+.summaryTitle {font-size: 15px; font-weight: bold;}
+.calculatorPremiumTitle{
+	height: 25px;
+}
+#ucPremium_dtlPremiumItems .uiPremiumValue, #ucPremium_dtlPremiumItems .uiPremiumCaption {
+	color: #000;
+}
+.calculatorPremiumPrice{
+	text-align: right;
+}
+.calculatorPremiumOptionalCoverage {
+	color: #000;
+	width: 100%;
+	height: 15px;
+	font-size: 9px;
+	font-weight: bold;
+	padding-left: 10px;	
+}
+.calculatorPremiumOptionalPrice {
+	color: #000;
+	font-size: 10px;
+	text-align: right;
+	font-weight: bold;	
+}
+.underlineCost {
+	border-bottom: 1px solid #000;
+}
+.tblPremiumTotal{ 
+	width: 98%;
+	margin: 2px 0px 0px 3px;
+	border-top: 1px solid #9c9b9b;
+}
+.tblPremiumTitle {
+	padding: 2px 2px 0px 2px;
+	font-weight: bold;
+	font-size: 14px;
+}
+.tblPremiumPrice {
+	padding: 2px 4px 0px 0px;
+	text-align: right;
+	font-weight: bold;
+	font-size: 14px;
+}
+.calculatorPremiumTitle .uiPremiumCaption {
+	font-size:13px;
+	color:#000;	
+}
+.calculatorPremiumPrice .uiPremiumValue {
+	color:#000;	
+}
+.calculatorPremiumOptionalCoverage .uiPremiumCaption {
+	font-size:9px;
+	color:#000;	
+}
+.calculatorPremiumOptionalPrice .uiPremiumValue {
+	font-size:10px;
+	color:#000;	
+}
+.tblPremiumTitle .uiPremiumCaption {
+	font-size: 14px;
+	color:#000;	
+}
+.tblPremiumPrice .uiPremiumValue {
+	color:#000;	
+}
+.calculatorSpacer {
+	width: 5px;
+	height: 1px;
+}
+/***********************************/
+.linkBold  {
+
+	font-weight:bold;
+}
+.tdSmallCaption {
+	font-size:11px;
+	color:#696969;
+	vertical-align:middle;
+}
+/*.divTripDetails .tdSmallCaption {
+	vertical-align: bottom;
+}*/
+.tripDatesTable, .tripDatesTable2{table-layout: fixed; width: 100%;}
+.tripDatesTable td, .tripDatesTable2 td{padding: 0 0px; vertical-align: middle; text-align: center;}
+.tdCaption {
+	color:#000000;
+	vertical-align:middle;
+}
+.uiCaption {
+
+	color:#000000;	
+}
+.uiCaptionOfac {
+	color:#000000;	
+}
+.uiSmallCaption {
+	font-size:11px;
+	color:#000000;	
+}
+.uiPremiumCaption {
+	font-size:11px;
+	color:#696969;	
+}
+.uiPremiumValue {
+	color:#000;	
+	border:0px;
+}
+.uiAlert {
+	font-size:13px;
+	color:#32619e;
+	font-weight:bold;
+}
+.uiBoldInfo {
+	font-size:13px;
+	color:#000000;
+	font-weight:bold;	
+}
+A.uiLink {
+	font-size: 13px;
+}
+/*****************************************
+Containers
+*****************************************/
+.divTripDates, .divTripDetails, .divPrimaryInsured, .divAdditionalInsured, #divFulfillmentContainer, .divCreditCardContainer, #divTermsConditionsContainer, #divBeneficiaryContainer, .divAdditionalInsured, .annualPlanDropDownList, .agentInitials, .referringAgent{
+	padding: 8px;
+	border: solid 1px #eeeeee;
+	background: #fff;
+    margin-bottom: 20px;
+}
+.annualPlanDropDownList{}
+.divPrimaryInsured{padding: 0 0 0 10px;}
+#divFulfillmentContainer, .divAdditionalInsured {padding:0;}
+.divAdditionalInsuredTD{padding: 0 0 6px 0;}
+.divAdditionalInsured{padding-left: 8px;}
+/*****************************************/
+.calculatorOptions {
+	width: 60%;
+	padding-right: 5px;
+	text-align: right;
+}
+.divProductPart1 {
+	margin-bottom:15px;
+	padding:10px;	
+	border: solid 1px #eeeeee;
+	background: #fff;
+}
+.travelerGridContainer {
+	border: solid 1px #eeeeee;
+	background: #fff;
+}
+#travelerGridContainer td{padding-top:8px;}
+.uiProductSelection {
+	font-size: 11px;
+	color: #696969;
+}
+.uiProductTitle {
+
+    font-weight: bold;
+}
+.txtAddMore { /* add more travelers input */
+	width: 26px;
+	vertical-align: middle;
+	margin: 0 3px;
+	border: 1px solid #cbcbcb;
+}
+.uiAdd {
+	font-size:13px;
+	color:#000000;
+	font-weight:bold;	
+}
+.bodyClass {
+	background-color:#efefef;
+}
+.uiErrorBox {
+	font-size: 12px;
+	font-weight: bold;
+	color: #ff0000;
+	padding:5px;
+	border: 1px solid #ff0000;
+	background: #fff;
+	margin-bottom: 5px;
+}
+.uiErrorBox ul{
+	list-style: square outside url(/tgi2/images/lidot_error.gif);
+	background-position:50% 50%;
+	margin: 0px 0px 0px 10px;
+
+	padding: 10px 0px 10px 10px;
+}
+.uiErrorBox li{
+	font-weight: normal;
+	padding: 0px;
+	margin: 5px 0px 0px 0px;
+}
+.divNoticeDialog table{
+	color: #ff0000;
+}
+HR {
+	color: #DEDFDE;
+	background: #DEDFDE;
+	height: 1px;
+
+	border: 0px;
+}
+.hrFull {
+	color:#eeeeee;
+}
+#divViewPolicyContainer { /** bottom line on policy pages **/
+	MARGIN-BOTTOM: 15px; 
+	BORDER-BOTTOM: #efefef 1px solid;
+}
+.pageTitleIframe {padding-left: 10px;} /** indent on h1 tags for iframe pages **/
+#iframeContainer {
+	width: 100%;
+	height: 100%;	
+}
+/**************************
+Calendar styles
+**************************/
+.textDate {/*input boxes*/
+    width: 80px; 
+    margin-top: 2px; 
+}
+/*
+	For information about formatting classes goto :
+	http://www.asp.net/AJAX/AjaxControlToolkit/Samples/Calendar/Calendar.aspx
+*/
+.cssCalendar .ajax__calendar_container {
+	border: 1px solid #7B7B7B;
+	background: white url(/tgi2/images/calendar/dayBar.gif) repeat-x;
+	padding:0px;
+}
+.cssCalendar .ajax__calendar_other .ajax__calendar_day, .cssCalendar .ajax__calendar_other .ajax__calendar_year {
+    color: gray;
+}
+.cssCalendar .ajax__calendar_hover .ajax__calendar_day, .cssCalendar .ajax__calendar_hover .ajax__calendar_month, .cssCalendar .ajax__calendar_hover .ajax__calendar_year {
+    color: #e31a22;
+}
+.cssCalendar .ajax__calendar_active .ajax__calendar_day {
+	border: 1px solid #e31a22;
+	font-weight: bold;
+	color: #e31a22;
+}
+.cssCalendar .ajax__calendar_footer {
+	background: WhiteSmoke;
+	border-top: 1px solid #E7E3E7;
+}
+.cssCalendar .ajax__calendar_header {
+    height: auto; 
+    padding: 2px 0 2px 0;
+	background: transparent url(/tgi2/images/calendar/titleBar.gif) repeat-x;
+	border-bottom: 1px solid #414141;
+	margin-bottom: 2px;
+	color: #313131;
+}
+.cssCalendar .ajax__calendar_header .ajax__calendar_hover {
+    color: #fff;
+}
+.cssCalendar  .ajax__calendar_hover .ajax__calendar_footer, .cssCalendar  .ajax__calendar_hover .ajax__calendar_day {
+    color: #e31a22;
+}
+.cssCalendar .ajax__calendar_dayname {padding:0 0px 3px 0px;width: 13px;}
+.cssCalendar .ajax__calendar_other, .cssCalendar .ajax__calendar_day, .cssCalendar .ajax__calendar_day  .ajax__calendar_day {width: 18px;}
+.cssCalendar .ajax__calendar_hover .ajax__calendar_prev {background: transparent url(/tgi2/images/calendar/prevHover.gif) no-repeat; background-position:50% 50%;}
+.cssCalendar .ajax__calendar_hover .ajax__calendar_next {background: transparent url(/tgi2/images/calendar/nextHover.gif) no-repeat; background-position:50% 50%;}
+.ajax__calendar_months {padding-top: 10px;}
+/**************************/
+.requiredfield {
+	font-size: 10px;
+	color: #ff0000;
+	font-family: arial;
+}
+.requiredstatement {
+	margin-right: 10px;
+	font-size: 10px;
+	color: #ff0000;
+}
+.travelerGridTable {
+    width: 100%;vertical-align:top;}
+}
+.travelerID, .tdTravelerID, .tdPctName, .pctNameTitle {
+	padding-left: 10px;
+	height: 29px;
+}
+.pctFirstName, .pctLastName, .tdTravelerID .watermarkedhint, .tdPctName .watermarkedhint{
+	width: 90px;
+}
+.travelerCost, .tdTravelerTripCost {
+	text-align: center;
+}
+.travelerBDate, .tdTravelerBDate {
+	text-align: center;
+}
+.travelerdependent, .tdTravelerDependent {
+	padding-left: 5px;
+}
+.travelerPremium, .tdTravelerPremium {
+    text-align: center;
+    padding: 0 4px;
+}
+/****************************
+Launch
+****************************/
+.launchTable {
+    width: 100%;
+}
+.contentTabTD {height: 410px;}
+/****************************
+Payment Fulfillment
+****************************/
+.fullfillOptionsSummary{
+	border-top:solid 1px #eeeeee;
+	background: whitesmoke;
+}
+.reviewLinks {
+    color: #e31a22;
+    padding-left: 8px;
+    font-size: 11px;
+ }
+.reviewLinks A{margin: 0 4px;}
+/*****************************************
+Save/Retrieve Quote
+****************************************/
+.loginTitle, .registerTitle {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.loginTable, .registerTable, .quotesTable {width: 100%;}
+.loginTD {width: 50%; vertical-align: top;}
+.loginField {text-align: right;}
+.loginSectionTitle {font-size: 14px; font-weight: bold;}
+.requiredDiv {text-align: right;}
+.loginBox{border: 1px solid #eeeeee; padding: 8px; margin: 0 7px 10px 0; background: #fff;}
+.retrieveBox {border: 1px solid #eeeeee; padding: 8px; margin: 0 0 10px 7px; background: #fff;}
+.registerBox {width: 600px; border: 1px solid #eeeeee; padding: 8px; margin: 0 auto 10px auto; background: #fff;}
+.registerholder {width: 616px; margin: 0 auto;}
+.registerInput{width: 150px;}
+.quotesDiv{border: 1px solid #eeeeee; margin-bottom: 10px; padding: 8px; background: #fff;}
+
+/** Retrieved Quotes **/
+.quotesTable {background:#a3a3a3;border: none;font-size:.85em;}
+.quotesTable td{background: #fff; padding: 4px; text-align: center;}
+.quotesTableHeader td{font-weight: bold; font-size: 14px; background: #dedede;font-size:1.2em;}
+.quoteProdColumnTitle th{font-weight: bold; text-align: center; padding:2px;background:#efefef;}
+td.quoteProdTitle {font-weight: bold; text-align: left;}
+td.saveQuoteButton {width: 230px;padding:4px;}
+.quotesDivHeader{font-weight: bold; font-size:1.2em;background: #dedede;border:1px solid #a3a3a3;text-align: center;padding:4px;border-bottom:0;}
+#ctl00_ctl00_purchasePathContainer_stepContainer_txtEmailQuoteEmailID{vertical-align:middle;}
+/** Payment Table Quotes **/
+.PrimaryInsuredTable{
+	width: 100%;
+	background:#eeeeee;
+}
+.PrimaryInsuredTable td{background: #fff; padding: 4px; vertical-align: top;}
+/** buttons **/
+.ui-icon-saveIcon{width:34px;height:32px;margin-top:2px;background: transparent url(/tgi2/images/ui-Icons.png) no-repeat -40px 0;}
+.ui-icon-retrieveIcon{width:34px;height:32px;margin-top:2px;background: transparent url(/tgi2/images/ui-Icons.png) no-repeat;}
+.saveQuote{text-decoration:none;text-align:left;}
+.Btn-retrievequote .ui-icon-saveIcon{margin-left:10px;}
+.Btn-savequote .ui-icon-saveIcon{margin-right:10px;}
+#divPagecontainer .saveQuote .selectedProductTitle{margin-bottom:0;}
+#divPagecontainer .saveQuote .hover{text-decoration:underline;}
+#divPagecontainer .saveQuote .hover:hover{text-decoration:none;}
+/**************************
+VIEW POLICY
+**************************/
+.viewPolicyQuestionTable {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.viewPolicyQuestion{
+	font-weight: bold;
+	padding: 10px 0 4px 0;
+	width: 33%;
+}
+/****************************************
+CUSTOM CALCULATOR
+****************************************/
+/*** New customized calc **/
+#quoteOverview{display:none;padding-bottom:20px;}
+.VeriSigncalcSummary, .SaveGetQuoteLink, .RetrieveQuoteLink-calc-pi{display:none;}
+.isAgentBrand .SaveGetQuoteLink, .isAgentBrand .RetrieveQuoteLink-calc-pi{display:block;}
+
+.calculatorButtons .btn-calculate{display:block;}/*preserve margin-bottom*/
+#divPagecontainer .calculatorButtons .btn-continue{display:none;}/*initially hide*/
+
+/*has quote*/
+.hasQuote #quoteOverview{display:block;}
+.hasQuote #quoteQuestionnaire{display:none;}
+/*.hasQuote .calculatorButtons .btn-calculate{display:none;}*/
+.hasQuote #divPagecontainer .calculatorButtons .btn-continue{display:block;}
+
+/*editTraveler*/
+.editTraveler #changeQuote{visibility:hidden;}
+.editTraveler #quoteQuestionnaire{display:block;}
+.editTraveler #divStepContainer .calculatorButtons .btn-calculate{display:block;}
+/*.editTraveler #divStepContainer .calculatorButtons .btn-continue{display:none;}*/
+
+.quoteOverviewTABLE{width:100%;}
+.quoteOverviewTABLE td{}
+.quoteOverviewTR1 td{padding:0 20px 4px 9px;}
+.quoteOverviewTR2 td{/*white-space:nowrap;*/font-size:1.55em;font-weight:normal;color:#1ca3dc;padding:4px 20px 4px 8px;border-left:1px solid #eee;border-top:1px solid #eee;vertical-align:middle;}
+.quoteOverviewTR2 td.quoteOverviewTD3{border-right:1px solid #eee;}
+.quoteOverviewTR3 td{background:#fafafa;color:#39940c;font-size:10px;padding:4px 8px;border:1px solid #eee;}
+.quoteOverviewTR3 td A{color:#39940c;}
+.quoteOverviewTR2 td.quoteOverviewTD3{text-align:right;}
+.quoteOverviewTR2 td A img{vertical-align:middle;}
+#needChangeBtn{margin-top:5px;float:left;}
+#editQuoteBtn{}
+#PPmoveTo .bottomSummaryButtons{text-align:center;}
+#PPmoveTo a{display:block;margin:0 auto 14px auto;}

@@ -1,0 +1,113 @@
+﻿A.Question, A.QuestionTitle, A.QuestionOptional, A.QuestionPCT  { /* keep other styles from effecting */
+	font-size: 12px;
+	cursor: help;
+	color: #8a8a8a;
+	height: 10px;
+	border: 0;
+	text-decoration: underline;
+}
+A.Question, A.QuestionTitle, A.QuestionPCT  { /* keep other styles from effecting */
+	background: transparent url(/tgi2/images/popDialogue/questionLink.gif) no-repeat; /*for font size 12px */
+	padding-left: 12px;
+}
+A.Question:hover, A.QuestionTitle:hover, A.QuestionOptional:hover, A.QuestionPCT:hover { /* keep other styles from effecting */
+	text-decoration: none;
+}
+A.QuestionTitle {/** for black titles **/
+	color: #000;
+	background: transparent url(/tgi2/images/popDialogue/questionLinkTitle.gif) no-repeat; /*for font size 12px */
+}
+A.QuestionOptional {/** for optional packages **/
+	color: #e31a22;
+	background-image: none;
+	padding-left: 0;
+}
+#IEselectBoxFix {
+    position: absolute;
+    display: none;
+    z-index: 97;; /*show UNDER popUp */
+}
+#popDialogueShadow {
+	z-index: 98; /*show UNDER popUp */
+	position: absolute;
+	width: 407px;
+	text-align: left;
+}
+#popDialogueShadow2 {
+	width: 100%;
+	background-color: rgba(0, 0, 0, .35);
+	padding: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+.dialogueContainers {
+	border: 1px solid #bababa;
+	background: #fff;
+	padding: 2px;
+}
+.dialogueContent {
+	border: 1px solid #bababa;
+	text-align: left;
+	height: 143px;
+/*	overflow-y: auto; IE always draws this*/
+}
+#popDialogueShadow { /* use js to show these */
+	display: none;
+}
+#dialogueIframeWindow { /* keep other styles from effecting */
+	width: 100%;
+	height: 100%;
+	overflow-y: auto;
+}
+/********************
+header bar
+********************/
+.dialogueHeaderBar {
+	background: #bababa;
+	margin-bottom: 2px;
+	width: 100%;
+}
+#dialogueTitle {
+	color: #fff;
+	font-weight: bold;
+	font-size: 12px;
+	text-align: left;
+	vertical-align: middle;
+	white-space: nowrap;
+	padding: 4px 8px 4px 8px;
+}
+.dialogueTitleButton {
+	vertical-align: middle;
+	white-space: nowrap;
+	text-align: right;
+	padding: 4px 4px 4px 8px;
+}
+.dialogueContainers .ui-icon {
+	background-image: url(/tgi2/brands/ADXTGUS/tgdirect/images/icons.png) /*{global-icon-set}*/;
+	background-repeat: no-repeat;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	width:18px;
+	height:18px;
+	display:inline-block;
+	vertical-align:middle;
+	margin:-2px 3px 0 0;
+	overflow:hidden;
+}
+.dialogueContainers .ui-icon-close{background-position: -73px -4px;}
+
+/***********************
+Arrow Icon
+***********************/
+#dialogueArrow {
+	position: absolute;
+	width: 13px;
+	height: 8px;
+	z-index: 99; /*show UNDER popUp */
+}
+.arrowDown {
+	background: transparent url(/tgi2/images/popDialogue/dialogueArrowBottom.gif) no-repeat;
+}
+.arrowUp {
+	background: transparent url(/tgi2/images/popDialogue/dialogueArrowTop.gif) no-repeat;
+}

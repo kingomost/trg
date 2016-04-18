@@ -1,0 +1,65 @@
+.btn-PCT_buynow {
+	background: transparent url(/tgi2/App_Themes/agentconsumerca/img/buttons/btn-buynowT.png) no-repeat;
+	border: 0;
+	width: 127px;
+	height: 29px;
+}
+A.PCTMoreInfo {
+	font-weight: normal;
+	background-image: none;
+	padding: 0;
+	font-size: 10px;
+}
+a img {border: 0;}
+A {color : #ee881a;}
+.reviewLinks{color: #857364;}
+.addItem{background: transparent url(/tgi2/App_Themes/agentconsumerca/img/addItem.gif) no-repeat 0 50%;}
+/****************************************
+CALCULATORS
+****************************************/
+.divSelectedProduct {
+	background: #eee;
+	border: 1px solid #9c9b9b;
+}
+.divCalculatorPremium2{
+	background: #eee;
+	border: 1px solid #9c9b9b;
+}
+.tblPremiumTotal{ 
+	border-top: 1px solid #9c9b9b;
+}
+.TDproduct A.QuestionOptional{color: #ee881a;}
+/*****************************************
+ProgressBar/Summary
+****************************************/
+.ProgressBar {display: inline;}
+#divProgressContainer{text-align:right;}
+.cssDivSelectedState{padding: 4px 8px;}
+.RetrieveQuoteLink-productlisting .Btn-RetrieveQuote{margin: 5px 0 0 10px;}
+body .divSelectedProduct, body .divCalculatorPremium2,.cssDivSelectedState{
+	background: #f9f7f5;
+	border:1px solid #beb5ad;
+	color: #857364;
+}
+body .tblPremiumTotal {border-top: 1px solid #beb5ad;}
+.calculatorPremiumTitle span,.calculatorPremiumPrice span,.tblPremiumTitle span,.tblPremiumPrice span, .divCalculatorPremium2 .uiPremiumValue, .divCalculatorPremium2 .uiPremiumCaption{color: #857364;}
+.divCalculatorPremium2 table, .calculatorPremiumTitle .uiPremiumCaption, .calculatorPremiumPrice .uiPremiumValue,.selectedProductLinks .uiProductTitle, .tblPremiumTitle .uiPremiumCaption, .tblPremiumPrice .uiPremiumValue{color: #857364;}
+/****************************************
+FULFILMENT
+****************************************/
+.viewPolicyToolbar {color:#857364;}
+.viewPolicyToolbar A {color:#ee881a;}
+.highlightContainerTable, .PrimaryInsuredTable, .OtherInsuredsTable, #agencyContainer{color: #857364;}
+body .highlightContainerTitle, body .insuredContainerTitle, body .agencyContainerTitle {
+	border: 1px solid #beb5ad;
+	color: #857364;
+}
+body #totalPremium, body #premiumCost {
+	border-top:  1px solid #beb5ad;
+	border-bottom:  1px solid #beb5ad;
+	color: #857364;
+}
+#divFulfillmentContainer table td {background: #fafafa;}
+#divFulfillmentContainer table td input{cursor: default;}
+#divFulfillmentContainer table td.tdTopBorder, #divFulfillmentContainer table td.tdTopBorder td {background: #eee;}
+#divFulfillmentContainer table td.tdTopBorder td input{cursor: text;}

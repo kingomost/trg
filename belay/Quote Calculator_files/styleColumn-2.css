@@ -1,0 +1,24 @@
+#divStepContainer {
+	float: right;
+	width: 236px;
+	margin:0; 
+	padding:0;
+}
+#divStepContainer-content {
+	margin:0; 
+	padding: 0.5em 1em;
+}
+#divSummaryContainer {
+	margin-right: 250px; 
+	padding:0;
+	height: 0; /*fix for IE6 on calculators */
+}
+html>body #divSummaryContainer {
+	height: auto;
+}
+#divSummaryContainer-content {
+	margin:0; 
+	padding: 0.5em 1em;
+	font-size: 100%;
+}
+#divStepContainer .CTA_button{display:block;}

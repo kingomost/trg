@@ -1,0 +1,7 @@
+﻿body, table {font-size:95%;}
+body {background: #fff;}
+
+#M_F_DIV1,#M_F_DIV2{display:none;}
+#M_C_DIV1,#M_C_DIV2 {height: auto;width:auto;border:0;padding-bottom:0;}
+
+.DZ_C_CLeft,.DZ_C_SNRight,.DZ_C_CRight,.DZ_C_SNLeft,.DZ_C_CMiddle,.DZ_C_CRight_Right,.DZ_C_CRight_Left{float:none;width: auto;margin:0;}

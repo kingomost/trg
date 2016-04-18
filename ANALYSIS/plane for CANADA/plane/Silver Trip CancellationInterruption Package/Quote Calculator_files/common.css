@@ -1,0 +1,254 @@
+﻿/***************************************
+COMMON
+***************************************/
+body, table {
+	font-size:90%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+html, body, form {
+	margin: 0;
+	padding: 0;
+}
+html{background: #eae7e4 url(/tgi2/brands/ADXTGCA/agentconsumerca/images/bkg-body.png) repeat-x;}
+body {background: transparent url(/tgi2/brands/ADXTGCA/agentconsumerca/images/header/bkg_headerBarRight.png) repeat-x;}/*pos rel breaks modals pos IE7*/
+A {color : #ee881a;}
+A:hover {text-decoration: none;}
+li {
+	padding: 0px;
+	margin: 5px 0px 0px 0px;
+}
+ul{
+	list-style: square outside url(/tgi2/brands/ADXTGCA/agentconsumerca/images/lidot.gif);
+	margin: 0px 0px 0px 10px;
+	padding: 10px 0px 10px 10px;
+}
+ul ul{
+	padding: 0px 0px 0px 10px;
+	list-style: square outside url(/tgi2/brands/ADXTGCA/agentconsumerca/images/lidotALT.gif);
+}
+ol{
+	margin: 0px 0px 0px 45px;
+	padding: 0px;
+}
+/***************************************
+HEADER
+***************************************/
+#M_H_DIV1{
+	height: 109px;
+	width:50%;
+	background: #fff url(/tgi2/brands/ADXTGCA/agentconsumerca/images/header/bkg_headerBarLeft.png) repeat-x bottom left;
+}
+#M_H_DIV2{margin-right:-100%;}
+#M_H_DIV3{
+	width: 987px;
+	margin: 0 auto;
+	color: #beb5ad;
+	height: 109px;
+	background: transparent url(/tgi2/brands/ADXTGCA/agentconsumerca/images/header/bkg_headerBarMid.png) no-repeat bottom right;
+}
+.M_H_siteLogo {
+	border: 0;
+	margin-top:8px;
+}
+.M_H_Logout{
+	padding: 73px 0 0 0;
+	float: right;
+	text-align: right;
+	font-size: .75em;
+}
+.M_H_Logout strong{color: #000;}
+.M_H_Logout A{color: #a8153e;}
+.M_H_MainNav {padding-top: 15px;}
+.M_H_MainNav A{
+	font-size: 12px;
+	font-weight: bold;
+	margin-right: 6px;
+	text-decoration: none;
+	color: #645c5c;
+}
+.M_H_navSeparator{vertical-align:middle;margin-right: 6px;}
+.M_H_MainNav A.hovered, .M_H_MainNav A:hover{color: #3f9435;}
+/***************************************
+FOOTER
+***************************************/
+#M_F_DIV1{}
+#M_F_DIV2 {
+	width: 987px;
+	margin: 0 auto;
+	padding: 15px 0 3px 0;
+	color: #b5aca4;
+	font-size: 10px;
+}
+.M_F_Links A{
+	margin: 0 4px;
+	vertical-align: middle;
+}
+.M_F_Box{
+	background: #f6f5f3;
+	border: 1px solid #beb5ad;
+	padding: 4px 6px 0 6px;
+	text-align: right;
+	color:#beb5ad;
+	position: relative;/* IE6 fix*/
+}
+.M_F_securityItems{
+    float:left;
+    position: relative;
+}
+.verisignFooter{float: left;}
+.hackerSafe{
+	float: left;
+	padding: 4px 4px 2px 4px;
+	background: #fff;
+	border: 1px solid #e3dad1;
+	margin: 8px 10px 0 0;
+}
+.M_F_Notices{margin-top: 17px;}
+.M_F_underwriter{
+	margin-top: 10px;
+	padding-bottom:2px;
+}
+/***************************************
+CONTENT
+***************************************/
+#M_C_DIV1{}
+#M_C_DIV2 {
+	width: 967px;
+	margin: -1px auto 0 auto;
+	padding: 20px 10px 20px 10px;
+	background: #fff;
+	border: 1px solid #857364;
+	border-top: 0;
+	z-index:200;
+}
+#M_C_DIV2 A img{
+	border: 0;
+	vertical-align: middle;
+}
+.DZ_C_pageContent{padding: 0 10px 20px 10px;}
+H1{
+	padding: 0;
+	margin: 0;
+	font-size: 2em;
+	font-weight: bolder;
+	color: #3f9435;
+}
+H1 A{color: #3f9435;}
+H2 {
+	font-size: 1.35em;
+	padding: 0;
+	margin: 0 0 10px 0;
+	color: #61b059;
+	font-weight: bold;
+}
+H2 A{color: #61b059;}
+H3 {
+	font-size: 1.15em;
+	padding: 0;
+	margin: 0;
+	color: #6e81ac;
+	font-weight: bold;
+}
+H3 A{color: #6e81ac;}
+.fineprint {
+	font-size: 0.75em;
+	color: #666;
+}
+.requiredField {color: #ff0000;}
+hr {
+	color: #889bb9;
+	background: #889bb9;
+	height: 1px;
+	border: 0;
+}
+A.tooltip0, .tooltip0 A{border-bottom-color: #ee881a;}
+.DZ_C_mainImage{margin-bottom:20px;}
+/***************************************
+COLUMNS
+***************************************/
+/***************************************
+COLUMNS
+***************************************/
+/*****************************************
+INPUT/RADIO/CHECKBOX/COMMNET BOX STYLE
+*****************************************/
+option, input, select, textarea {
+	color: #666666;
+	height: 18px;
+	margin: 0px;
+}
+select {
+	border: 1px solid #8c8c8c;
+	height: auto;
+}
+textarea {height: auto;}
+input, textarea {
+	border: 1px solid #8c8c8c;
+	padding: 0px 2px 0px 2px;
+}
+input[type="checkbox"], input[type="radio"] {
+	border: 0px;
+	margin-right: 4px;
+	cursor:pointer;
+	vertical-align:middle;
+}
+input[type="submit"],input.submit {
+	border: 3px double #e31a22;
+	color: #e31a22;
+	background: #fff;
+	padding: 0 3px;
+	font-weight: bold;
+	cursor: pointer;
+	height: auto;
+}
+input[type="image"],input.IMGSubmit {
+	border: 0;
+	width: auto;
+	height: auto;
+}
+/***************************************/
+div.trackingCode{
+	position: absolute;
+	width: 100px; /*mac IE fix */
+	left: -2000px;
+	margin-right: 0; /*mac IE fix */
+}
+span.s, span.smark {
+	font-family: "Lucida Sans Unicode"; /* A rare sm-supporting font. */
+	line-height: 0; /* keep the leading consistent in a paragraph */
+	font-weight: normal;
+}
+.clear {
+	clear:both;
+	height:1px;
+	font-size:1px;/*IE6 fix*/
+	margin: -1px 0 0 0;
+	padding:0;
+	border:none;
+	visibility: hidden;
+	line-height:0;
+}
+.fineprint {
+	font-size: 0.75em;
+	color: #666;
+}
+.requiredField {color: #ff0000;}
+.acrobatIcon {
+	background: transparent url(/tgi2/brands/00common/images/acrobatIcon.png) no-repeat;
+	padding-left: 16px;
+}
+.floatLeft{float:left;margin:0 10px 10px 0;}
+.floatRight{float:right;margin:0 0 10px 10px;}
+.padLeft10{padding-left: 10px;}
+.padLeft15{padding-left: 15px;}
+.marginLeft15{margin-left: 15px;}
+.marginTop10{margin-top: 10px;}
+.border1, #M_C_DIV2 A img.border1{border:1px solid #053a8a;}
+/*****************************************
+INPUT/RADIO/CHECKBOX/COMMNET BOX STYLE
+*****************************************/
+body input[type="submit"],body input.submit {
+	border-color: #ee881a;
+	color: #ee881a;
+}

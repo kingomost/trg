@@ -1,0 +1,22 @@
+div.central_block {
+    background: #f0f0f0;
+    border: 2px solid #9f9f9f;
+    border-radius: 5px;
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px 10px;
+    text-align: center;
+}
+
+div.central_block a {
+    font-size: 18pt;
+    color: #444444;
+}
+
+div.central_block a:visited {
+    color: #666666;
+}
+
+div.central_block a:hover{
+    color: #000000;
+}
