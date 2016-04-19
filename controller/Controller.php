@@ -23,6 +23,8 @@ class Controller {
 			return 'belay_link';
 		} elseif ($this->first === 'belay' || isset($_POST['ID'])) {
 			return 'no_activ_tour';
+		} elseif ($this->first === 'ajax' || isset($_POST['SECRET'])) {
+			return 'secret';
 		} else  {
 			return 'form_select_id';
 		}	

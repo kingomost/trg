@@ -18,16 +18,16 @@ trait dbImitation {
 											'time_end' => '08/23/2016',
 										],
 									16 => [
-											'from_country' => '1',
-											'from_state' => '34',
+											'from_country' => '2',
+											'from_state' => '52',
 											'to_country' => '2',
-											'to_state' => '12',
+											'to_state' => '60',
 											'time_start' => '05/03/2016',//mm/dd/yyyy
 											'time_end' => '05/15/2016',
 										],
 									17 => [
 											'from_country' => '2',
-											'from_state' => '48',
+											'from_state' => '54',
 											'to_country' => '1',
 											'to_state' => '9',
 											'time_start' => '05/03/2016',//mm/dd/yyyy

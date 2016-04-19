@@ -93,5 +93,18 @@ class View {
 		
 	}
 	
+	private function secret() {
+		
+		$resalt = \travelguard\core\SetCurl::return_resalt ($_POST['SECRET'], null, null, null);
+		preg_match_all("~\<input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"([^\"]*)\"~isU", $resalt, $buf);
+		$key_0 = $buf[1][0];
+		preg_match_all("~\<input type=\"hidden\" name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\" value=\"([^\"]*)\"~isU", $resalt, $buf);
+		$key_1 = $buf[1][0];
+		$arr = json_encode(['key_0' => $key_0, 'key_1' => $key_1]);
+		print_r($arr);
+		exit;
+		
+	}
+	
 }
 ?>
